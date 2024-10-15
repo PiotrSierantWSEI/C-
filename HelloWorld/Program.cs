@@ -66,3 +66,12 @@ foreach (var arg in args)
 Console.WriteLine(builder.ToString());
 
 return 0;
+
+// static void Main() { }
+// static int Main() { }
+// static void Main(string[] args) { }
+// static int Main(string[] args) { }
+// static async Task Main() { }
+// static async Task<int> Main() { }
+// static async Task Main(string[] args) { }
+// static async Task<int> Main(string[] args) { }
