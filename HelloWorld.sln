@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{54E47CCF-BF14-4D74-89E9-76065CEB199C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicalDecision", "LogicalDecision\LogicalDecision.csproj", "{43A3C0B3-1C4F-4A7B-83C3-20565DD31F1A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{54E47CCF-BF14-4D74-89E9-76065CEB199C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{54E47CCF-BF14-4D74-89E9-76065CEB199C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{54E47CCF-BF14-4D74-89E9-76065CEB199C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43A3C0B3-1C4F-4A7B-83C3-20565DD31F1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43A3C0B3-1C4F-4A7B-83C3-20565DD31F1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43A3C0B3-1C4F-4A7B-83C3-20565DD31F1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43A3C0B3-1C4F-4A7B-83C3-20565DD31F1A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
