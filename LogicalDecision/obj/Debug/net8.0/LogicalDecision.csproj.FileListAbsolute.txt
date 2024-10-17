@@ -1,0 +1,15 @@
+C:\Users\Multiprojekt\Desktop\C-\LogicalDecision\bin\Debug\net8.0\LogicalDecision.exe
+C:\Users\Multiprojekt\Desktop\C-\LogicalDecision\bin\Debug\net8.0\LogicalDecision.deps.json
+C:\Users\Multiprojekt\Desktop\C-\LogicalDecision\bin\Debug\net8.0\LogicalDecision.runtimeconfig.json
+C:\Users\Multiprojekt\Desktop\C-\LogicalDecision\bin\Debug\net8.0\LogicalDecision.dll
+C:\Users\Multiprojekt\Desktop\C-\LogicalDecision\bin\Debug\net8.0\LogicalDecision.pdb
+C:\Users\Multiprojekt\Desktop\C-\LogicalDecision\obj\Debug\net8.0\LogicalDecision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Multiprojekt\Desktop\C-\LogicalDecision\obj\Debug\net8.0\LogicalDecision.AssemblyInfoInputs.cache
+C:\Users\Multiprojekt\Desktop\C-\LogicalDecision\obj\Debug\net8.0\LogicalDecision.AssemblyInfo.cs
+C:\Users\Multiprojekt\Desktop\C-\LogicalDecision\obj\Debug\net8.0\LogicalDecision.csproj.CoreCompileInputs.cache
+C:\Users\Multiprojekt\Desktop\C-\LogicalDecision\obj\Debug\net8.0\LogicalDecision.sourcelink.json
+C:\Users\Multiprojekt\Desktop\C-\LogicalDecision\obj\Debug\net8.0\LogicalDecision.dll
+C:\Users\Multiprojekt\Desktop\C-\LogicalDecision\obj\Debug\net8.0\refint\LogicalDecision.dll
+C:\Users\Multiprojekt\Desktop\C-\LogicalDecision\obj\Debug\net8.0\LogicalDecision.pdb
+C:\Users\Multiprojekt\Desktop\C-\LogicalDecision\obj\Debug\net8.0\LogicalDecision.genruntimeconfig.cache
+C:\Users\Multiprojekt\Desktop\C-\LogicalDecision\obj\Debug\net8.0\ref\LogicalDecision.dll
