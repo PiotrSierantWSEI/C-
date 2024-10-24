@@ -1,0 +1,15 @@
+C:\Users\Multiprojekt\Desktop\C-\CR-parametry\bin\Debug\net8.0\CR-parametry.exe
+C:\Users\Multiprojekt\Desktop\C-\CR-parametry\bin\Debug\net8.0\CR-parametry.deps.json
+C:\Users\Multiprojekt\Desktop\C-\CR-parametry\bin\Debug\net8.0\CR-parametry.runtimeconfig.json
+C:\Users\Multiprojekt\Desktop\C-\CR-parametry\bin\Debug\net8.0\CR-parametry.dll
+C:\Users\Multiprojekt\Desktop\C-\CR-parametry\bin\Debug\net8.0\CR-parametry.pdb
+C:\Users\Multiprojekt\Desktop\C-\CR-parametry\obj\Debug\net8.0\CR-parametry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Multiprojekt\Desktop\C-\CR-parametry\obj\Debug\net8.0\CR-parametry.AssemblyInfoInputs.cache
+C:\Users\Multiprojekt\Desktop\C-\CR-parametry\obj\Debug\net8.0\CR-parametry.AssemblyInfo.cs
+C:\Users\Multiprojekt\Desktop\C-\CR-parametry\obj\Debug\net8.0\CR-parametry.csproj.CoreCompileInputs.cache
+C:\Users\Multiprojekt\Desktop\C-\CR-parametry\obj\Debug\net8.0\CR-parametry.sourcelink.json
+C:\Users\Multiprojekt\Desktop\C-\CR-parametry\obj\Debug\net8.0\CR-parametry.dll
+C:\Users\Multiprojekt\Desktop\C-\CR-parametry\obj\Debug\net8.0\refint\CR-parametry.dll
+C:\Users\Multiprojekt\Desktop\C-\CR-parametry\obj\Debug\net8.0\CR-parametry.pdb
+C:\Users\Multiprojekt\Desktop\C-\CR-parametry\obj\Debug\net8.0\CR-parametry.genruntimeconfig.cache
+C:\Users\Multiprojekt\Desktop\C-\CR-parametry\obj\Debug\net8.0\ref\CR-parametry.dll

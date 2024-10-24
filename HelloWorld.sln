@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IO", "IO\IO.csproj", "{25A8
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataType", "DataType\DataType.csproj", "{BDE12F9D-FCFF-4588-944B-B28E525FD078}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CR-parametry-trojkata", "CR-parametry-trojkata\CR-parametry-trojkata.csproj", "{7AF97504-F847-4605-9AC3-FB2E2939488A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CR-parametry", "CR-parametry\CR-parametry.csproj", "{A43920D4-D8B3-412F-B6A9-3B5B8DAECD89}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -72,5 +76,13 @@ Global
 		{BDE12F9D-FCFF-4588-944B-B28E525FD078}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BDE12F9D-FCFF-4588-944B-B28E525FD078}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BDE12F9D-FCFF-4588-944B-B28E525FD078}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AF97504-F847-4605-9AC3-FB2E2939488A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AF97504-F847-4605-9AC3-FB2E2939488A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AF97504-F847-4605-9AC3-FB2E2939488A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AF97504-F847-4605-9AC3-FB2E2939488A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A43920D4-D8B3-412F-B6A9-3B5B8DAECD89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A43920D4-D8B3-412F-B6A9-3B5B8DAECD89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A43920D4-D8B3-412F-B6A9-3B5B8DAECD89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A43920D4-D8B3-412F-B6A9-3B5B8DAECD89}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
