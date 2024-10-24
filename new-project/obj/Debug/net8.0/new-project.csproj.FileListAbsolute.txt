@@ -1,0 +1,15 @@
+C:\Users\Multiprojekt\Desktop\C-\new-project\bin\Debug\net8.0\new-project.exe
+C:\Users\Multiprojekt\Desktop\C-\new-project\bin\Debug\net8.0\new-project.deps.json
+C:\Users\Multiprojekt\Desktop\C-\new-project\bin\Debug\net8.0\new-project.runtimeconfig.json
+C:\Users\Multiprojekt\Desktop\C-\new-project\bin\Debug\net8.0\new-project.dll
+C:\Users\Multiprojekt\Desktop\C-\new-project\bin\Debug\net8.0\new-project.pdb
+C:\Users\Multiprojekt\Desktop\C-\new-project\obj\Debug\net8.0\new-project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Multiprojekt\Desktop\C-\new-project\obj\Debug\net8.0\new-project.AssemblyInfoInputs.cache
+C:\Users\Multiprojekt\Desktop\C-\new-project\obj\Debug\net8.0\new-project.AssemblyInfo.cs
+C:\Users\Multiprojekt\Desktop\C-\new-project\obj\Debug\net8.0\new-project.csproj.CoreCompileInputs.cache
+C:\Users\Multiprojekt\Desktop\C-\new-project\obj\Debug\net8.0\new-project.sourcelink.json
+C:\Users\Multiprojekt\Desktop\C-\new-project\obj\Debug\net8.0\new-project.dll
+C:\Users\Multiprojekt\Desktop\C-\new-project\obj\Debug\net8.0\refint\new-project.dll
+C:\Users\Multiprojekt\Desktop\C-\new-project\obj\Debug\net8.0\new-project.pdb
+C:\Users\Multiprojekt\Desktop\C-\new-project\obj\Debug\net8.0\new-project.genruntimeconfig.cache
+C:\Users\Multiprojekt\Desktop\C-\new-project\obj\Debug\net8.0\ref\new-project.dll
