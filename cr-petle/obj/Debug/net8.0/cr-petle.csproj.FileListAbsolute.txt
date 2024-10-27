@@ -1,0 +1,15 @@
+C:\Users\Multiprojekt\Desktop\C-\cr-petle\bin\Debug\net8.0\cr-petle.exe
+C:\Users\Multiprojekt\Desktop\C-\cr-petle\bin\Debug\net8.0\cr-petle.deps.json
+C:\Users\Multiprojekt\Desktop\C-\cr-petle\bin\Debug\net8.0\cr-petle.runtimeconfig.json
+C:\Users\Multiprojekt\Desktop\C-\cr-petle\bin\Debug\net8.0\cr-petle.dll
+C:\Users\Multiprojekt\Desktop\C-\cr-petle\bin\Debug\net8.0\cr-petle.pdb
+C:\Users\Multiprojekt\Desktop\C-\cr-petle\obj\Debug\net8.0\cr-petle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Multiprojekt\Desktop\C-\cr-petle\obj\Debug\net8.0\cr-petle.AssemblyInfoInputs.cache
+C:\Users\Multiprojekt\Desktop\C-\cr-petle\obj\Debug\net8.0\cr-petle.AssemblyInfo.cs
+C:\Users\Multiprojekt\Desktop\C-\cr-petle\obj\Debug\net8.0\cr-petle.csproj.CoreCompileInputs.cache
+C:\Users\Multiprojekt\Desktop\C-\cr-petle\obj\Debug\net8.0\cr-petle.sourcelink.json
+C:\Users\Multiprojekt\Desktop\C-\cr-petle\obj\Debug\net8.0\cr-petle.dll
+C:\Users\Multiprojekt\Desktop\C-\cr-petle\obj\Debug\net8.0\refint\cr-petle.dll
+C:\Users\Multiprojekt\Desktop\C-\cr-petle\obj\Debug\net8.0\cr-petle.pdb
+C:\Users\Multiprojekt\Desktop\C-\cr-petle\obj\Debug\net8.0\cr-petle.genruntimeconfig.cache
+C:\Users\Multiprojekt\Desktop\C-\cr-petle\obj\Debug\net8.0\ref\cr-petle.dll

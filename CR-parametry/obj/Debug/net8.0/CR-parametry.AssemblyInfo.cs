@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CR-parametry")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd83c8dc84714b4ced39fd319327e2b8dac07482")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa615146ec5442e190c69b0e49d6a94abd650f88")]
 [assembly: System.Reflection.AssemblyProductAttribute("CR-parametry")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CR-parametry")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
