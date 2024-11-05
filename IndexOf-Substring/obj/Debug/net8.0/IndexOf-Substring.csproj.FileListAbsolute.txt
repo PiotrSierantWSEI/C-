@@ -1,0 +1,15 @@
+C:\Users\Multiprojekt\Desktop\C-\IndexOf-Substring\bin\Debug\net8.0\IndexOf-Substring.exe
+C:\Users\Multiprojekt\Desktop\C-\IndexOf-Substring\bin\Debug\net8.0\IndexOf-Substring.deps.json
+C:\Users\Multiprojekt\Desktop\C-\IndexOf-Substring\bin\Debug\net8.0\IndexOf-Substring.runtimeconfig.json
+C:\Users\Multiprojekt\Desktop\C-\IndexOf-Substring\bin\Debug\net8.0\IndexOf-Substring.dll
+C:\Users\Multiprojekt\Desktop\C-\IndexOf-Substring\bin\Debug\net8.0\IndexOf-Substring.pdb
+C:\Users\Multiprojekt\Desktop\C-\IndexOf-Substring\obj\Debug\net8.0\IndexOf-Substring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Multiprojekt\Desktop\C-\IndexOf-Substring\obj\Debug\net8.0\IndexOf-Substring.AssemblyInfoInputs.cache
+C:\Users\Multiprojekt\Desktop\C-\IndexOf-Substring\obj\Debug\net8.0\IndexOf-Substring.AssemblyInfo.cs
+C:\Users\Multiprojekt\Desktop\C-\IndexOf-Substring\obj\Debug\net8.0\IndexOf-Substring.csproj.CoreCompileInputs.cache
+C:\Users\Multiprojekt\Desktop\C-\IndexOf-Substring\obj\Debug\net8.0\IndexOf-Substring.sourcelink.json
+C:\Users\Multiprojekt\Desktop\C-\IndexOf-Substring\obj\Debug\net8.0\IndexOf-Substring.dll
+C:\Users\Multiprojekt\Desktop\C-\IndexOf-Substring\obj\Debug\net8.0\refint\IndexOf-Substring.dll
+C:\Users\Multiprojekt\Desktop\C-\IndexOf-Substring\obj\Debug\net8.0\IndexOf-Substring.pdb
+C:\Users\Multiprojekt\Desktop\C-\IndexOf-Substring\obj\Debug\net8.0\IndexOf-Substring.genruntimeconfig.cache
+C:\Users\Multiprojekt\Desktop\C-\IndexOf-Substring\obj\Debug\net8.0\ref\IndexOf-Substring.dll
