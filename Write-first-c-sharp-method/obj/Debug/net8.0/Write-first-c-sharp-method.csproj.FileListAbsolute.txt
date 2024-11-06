@@ -1,0 +1,15 @@
+C:\Users\Multiprojekt\Desktop\C-\Write-first-c-sharp-method\bin\Debug\net8.0\Write-first-c-sharp-method.exe
+C:\Users\Multiprojekt\Desktop\C-\Write-first-c-sharp-method\bin\Debug\net8.0\Write-first-c-sharp-method.deps.json
+C:\Users\Multiprojekt\Desktop\C-\Write-first-c-sharp-method\bin\Debug\net8.0\Write-first-c-sharp-method.runtimeconfig.json
+C:\Users\Multiprojekt\Desktop\C-\Write-first-c-sharp-method\bin\Debug\net8.0\Write-first-c-sharp-method.dll
+C:\Users\Multiprojekt\Desktop\C-\Write-first-c-sharp-method\bin\Debug\net8.0\Write-first-c-sharp-method.pdb
+C:\Users\Multiprojekt\Desktop\C-\Write-first-c-sharp-method\obj\Debug\net8.0\Write-first-c-sharp-method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Multiprojekt\Desktop\C-\Write-first-c-sharp-method\obj\Debug\net8.0\Write-first-c-sharp-method.AssemblyInfoInputs.cache
+C:\Users\Multiprojekt\Desktop\C-\Write-first-c-sharp-method\obj\Debug\net8.0\Write-first-c-sharp-method.AssemblyInfo.cs
+C:\Users\Multiprojekt\Desktop\C-\Write-first-c-sharp-method\obj\Debug\net8.0\Write-first-c-sharp-method.csproj.CoreCompileInputs.cache
+C:\Users\Multiprojekt\Desktop\C-\Write-first-c-sharp-method\obj\Debug\net8.0\Write-first-c-sharp-method.sourcelink.json
+C:\Users\Multiprojekt\Desktop\C-\Write-first-c-sharp-method\obj\Debug\net8.0\Write-first-c-sharp-method.dll
+C:\Users\Multiprojekt\Desktop\C-\Write-first-c-sharp-method\obj\Debug\net8.0\refint\Write-first-c-sharp-method.dll
+C:\Users\Multiprojekt\Desktop\C-\Write-first-c-sharp-method\obj\Debug\net8.0\Write-first-c-sharp-method.pdb
+C:\Users\Multiprojekt\Desktop\C-\Write-first-c-sharp-method\obj\Debug\net8.0\Write-first-c-sharp-method.genruntimeconfig.cache
+C:\Users\Multiprojekt\Desktop\C-\Write-first-c-sharp-method\obj\Debug\net8.0\ref\Write-first-c-sharp-method.dll
