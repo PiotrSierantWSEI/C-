@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "array-operation", "array-op
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndexOf-Substring", "IndexOf-Substring\IndexOf-Substring.csproj", "{C7A0F047-274A-42AD-B98D-346351DBC32E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Guided-project-work-variable-data-c-sharp", "Guided-project-work-variable-data-c-sharp\Guided-project-work-variable-data-c-sharp.csproj", "{0C90DF7B-09F4-4EC4-9AC2-9476EAC0BC91}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -114,5 +116,9 @@ Global
 		{C7A0F047-274A-42AD-B98D-346351DBC32E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7A0F047-274A-42AD-B98D-346351DBC32E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7A0F047-274A-42AD-B98D-346351DBC32E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C90DF7B-09F4-4EC4-9AC2-9476EAC0BC91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C90DF7B-09F4-4EC4-9AC2-9476EAC0BC91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C90DF7B-09F4-4EC4-9AC2-9476EAC0BC91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C90DF7B-09F4-4EC4-9AC2-9476EAC0BC91}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

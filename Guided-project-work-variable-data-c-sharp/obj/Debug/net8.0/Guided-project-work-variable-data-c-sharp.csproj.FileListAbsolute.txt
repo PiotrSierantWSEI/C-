@@ -1,0 +1,15 @@
+C:\Users\Multiprojekt\Desktop\C-\Guided-project-work-variable-data-c-sharp\bin\Debug\net8.0\Guided-project-work-variable-data-c-sharp.exe
+C:\Users\Multiprojekt\Desktop\C-\Guided-project-work-variable-data-c-sharp\bin\Debug\net8.0\Guided-project-work-variable-data-c-sharp.deps.json
+C:\Users\Multiprojekt\Desktop\C-\Guided-project-work-variable-data-c-sharp\bin\Debug\net8.0\Guided-project-work-variable-data-c-sharp.runtimeconfig.json
+C:\Users\Multiprojekt\Desktop\C-\Guided-project-work-variable-data-c-sharp\bin\Debug\net8.0\Guided-project-work-variable-data-c-sharp.dll
+C:\Users\Multiprojekt\Desktop\C-\Guided-project-work-variable-data-c-sharp\bin\Debug\net8.0\Guided-project-work-variable-data-c-sharp.pdb
+C:\Users\Multiprojekt\Desktop\C-\Guided-project-work-variable-data-c-sharp\obj\Debug\net8.0\Guided-project-work-variable-data-c-sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Multiprojekt\Desktop\C-\Guided-project-work-variable-data-c-sharp\obj\Debug\net8.0\Guided-project-work-variable-data-c-sharp.AssemblyInfoInputs.cache
+C:\Users\Multiprojekt\Desktop\C-\Guided-project-work-variable-data-c-sharp\obj\Debug\net8.0\Guided-project-work-variable-data-c-sharp.AssemblyInfo.cs
+C:\Users\Multiprojekt\Desktop\C-\Guided-project-work-variable-data-c-sharp\obj\Debug\net8.0\Guided-project-work-variable-data-c-sharp.csproj.CoreCompileInputs.cache
+C:\Users\Multiprojekt\Desktop\C-\Guided-project-work-variable-data-c-sharp\obj\Debug\net8.0\Guided-project-work-variable-data-c-sharp.sourcelink.json
+C:\Users\Multiprojekt\Desktop\C-\Guided-project-work-variable-data-c-sharp\obj\Debug\net8.0\Guided-project-work-variable-data-c-sharp.dll
+C:\Users\Multiprojekt\Desktop\C-\Guided-project-work-variable-data-c-sharp\obj\Debug\net8.0\refint\Guided-project-work-variable-data-c-sharp.dll
+C:\Users\Multiprojekt\Desktop\C-\Guided-project-work-variable-data-c-sharp\obj\Debug\net8.0\Guided-project-work-variable-data-c-sharp.pdb
+C:\Users\Multiprojekt\Desktop\C-\Guided-project-work-variable-data-c-sharp\obj\Debug\net8.0\Guided-project-work-variable-data-c-sharp.genruntimeconfig.cache
+C:\Users\Multiprojekt\Desktop\C-\Guided-project-work-variable-data-c-sharp\obj\Debug\net8.0\ref\Guided-project-work-variable-data-c-sharp.dll
