@@ -1,0 +1,15 @@
+C:\Users\Multiprojekt\Desktop\C-\Create-c-sharp-methods-parameters\bin\Debug\net8.0\Create-c-sharp-methods-parameters.exe
+C:\Users\Multiprojekt\Desktop\C-\Create-c-sharp-methods-parameters\bin\Debug\net8.0\Create-c-sharp-methods-parameters.deps.json
+C:\Users\Multiprojekt\Desktop\C-\Create-c-sharp-methods-parameters\bin\Debug\net8.0\Create-c-sharp-methods-parameters.runtimeconfig.json
+C:\Users\Multiprojekt\Desktop\C-\Create-c-sharp-methods-parameters\bin\Debug\net8.0\Create-c-sharp-methods-parameters.dll
+C:\Users\Multiprojekt\Desktop\C-\Create-c-sharp-methods-parameters\bin\Debug\net8.0\Create-c-sharp-methods-parameters.pdb
+C:\Users\Multiprojekt\Desktop\C-\Create-c-sharp-methods-parameters\obj\Debug\net8.0\Create-c-sharp-methods-parameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Multiprojekt\Desktop\C-\Create-c-sharp-methods-parameters\obj\Debug\net8.0\Create-c-sharp-methods-parameters.AssemblyInfoInputs.cache
+C:\Users\Multiprojekt\Desktop\C-\Create-c-sharp-methods-parameters\obj\Debug\net8.0\Create-c-sharp-methods-parameters.AssemblyInfo.cs
+C:\Users\Multiprojekt\Desktop\C-\Create-c-sharp-methods-parameters\obj\Debug\net8.0\Create-c-sharp-methods-parameters.csproj.CoreCompileInputs.cache
+C:\Users\Multiprojekt\Desktop\C-\Create-c-sharp-methods-parameters\obj\Debug\net8.0\Create-c-sharp-methods-parameters.sourcelink.json
+C:\Users\Multiprojekt\Desktop\C-\Create-c-sharp-methods-parameters\obj\Debug\net8.0\Create-c-sharp-methods-parameters.dll
+C:\Users\Multiprojekt\Desktop\C-\Create-c-sharp-methods-parameters\obj\Debug\net8.0\refint\Create-c-sharp-methods-parameters.dll
+C:\Users\Multiprojekt\Desktop\C-\Create-c-sharp-methods-parameters\obj\Debug\net8.0\Create-c-sharp-methods-parameters.pdb
+C:\Users\Multiprojekt\Desktop\C-\Create-c-sharp-methods-parameters\obj\Debug\net8.0\Create-c-sharp-methods-parameters.genruntimeconfig.cache
+C:\Users\Multiprojekt\Desktop\C-\Create-c-sharp-methods-parameters\obj\Debug\net8.0\ref\Create-c-sharp-methods-parameters.dll

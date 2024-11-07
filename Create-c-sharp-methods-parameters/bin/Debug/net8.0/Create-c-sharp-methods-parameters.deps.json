@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Create-c-sharp-methods-parameters/1.0.0": {
+        "runtime": {
+          "Create-c-sharp-methods-parameters.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Create-c-sharp-methods-parameters/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
