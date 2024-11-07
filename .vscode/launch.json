@@ -1,0 +1,36 @@
+{
+    "configurations": [
+        {
+            "name": ".NET Core Launch (console)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/bin/Debug/<target-framework>/<project-name.dll>",
+            "args": [],
+            "cwd": "${workspaceFolder}",
+            "stopAtEntry": false,
+            "console": "internalConsole"
+        },
+      {
+        "type": "coreclr",
+        "request": "launch",
+        "name": "Launch Program",
+        "program": "${workspaceFolder}/${input:projectFolder}/bin/Debug/netcoreapp3.1/${input:executableName}.dll",
+        "args": [],
+        "cwd": "${workspaceFolder}/${input:projectFolder}",
+        "stopAtEntry": false
+      }
+    ],
+    "inputs": [
+      {
+        "type": "promptString",
+        "id": "projectFolder",
+        "description": "Enter the project folder name"
+      },
+      {
+        "type": "promptString",
+        "id": "executableName",
+        "description": "Enter the executable name"
+      }
+    ]
+  }

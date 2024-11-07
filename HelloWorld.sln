@@ -45,6 +45,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Write-first-c-sharp-method"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Create-c-sharp-methods-parameters", "Create-c-sharp-methods-parameters\Create-c-sharp-methods-parameters.csproj", "{43F9A5F2-B277-41B5-A7B9-13F4FAA84ED8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test-Debug", "Test-Debug\Test-Debug.csproj", "{B0606355-6CEB-4C33-A019-C150DF081A4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Debuger", "Debuger\Debuger.csproj", "{5663BEBB-B08D-4FFE-BDAD-441A41246E77}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -138,5 +142,13 @@ Global
 		{43F9A5F2-B277-41B5-A7B9-13F4FAA84ED8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{43F9A5F2-B277-41B5-A7B9-13F4FAA84ED8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{43F9A5F2-B277-41B5-A7B9-13F4FAA84ED8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0606355-6CEB-4C33-A019-C150DF081A4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0606355-6CEB-4C33-A019-C150DF081A4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0606355-6CEB-4C33-A019-C150DF081A4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0606355-6CEB-4C33-A019-C150DF081A4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5663BEBB-B08D-4FFE-BDAD-441A41246E77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5663BEBB-B08D-4FFE-BDAD-441A41246E77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5663BEBB-B08D-4FFE-BDAD-441A41246E77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5663BEBB-B08D-4FFE-BDAD-441A41246E77}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

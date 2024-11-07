@@ -1,0 +1,15 @@
+C:\Users\Multiprojekt\Desktop\C-\Test-Debug\obj\Debug\net8.0\Test-Debug.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Multiprojekt\Desktop\C-\Test-Debug\obj\Debug\net8.0\Test-Debug.AssemblyInfoInputs.cache
+C:\Users\Multiprojekt\Desktop\C-\Test-Debug\obj\Debug\net8.0\Test-Debug.AssemblyInfo.cs
+C:\Users\Multiprojekt\Desktop\C-\Test-Debug\obj\Debug\net8.0\Test-Debug.csproj.CoreCompileInputs.cache
+C:\Users\Multiprojekt\Desktop\C-\Test-Debug\obj\Debug\net8.0\Test-Debug.sourcelink.json
+C:\Users\Multiprojekt\Desktop\C-\Test-Debug\bin\Debug\net8.0\Test-Debug.exe
+C:\Users\Multiprojekt\Desktop\C-\Test-Debug\bin\Debug\net8.0\Test-Debug.deps.json
+C:\Users\Multiprojekt\Desktop\C-\Test-Debug\bin\Debug\net8.0\Test-Debug.runtimeconfig.json
+C:\Users\Multiprojekt\Desktop\C-\Test-Debug\bin\Debug\net8.0\Test-Debug.dll
+C:\Users\Multiprojekt\Desktop\C-\Test-Debug\bin\Debug\net8.0\Test-Debug.pdb
+C:\Users\Multiprojekt\Desktop\C-\Test-Debug\obj\Debug\net8.0\Test-Debug.dll
+C:\Users\Multiprojekt\Desktop\C-\Test-Debug\obj\Debug\net8.0\refint\Test-Debug.dll
+C:\Users\Multiprojekt\Desktop\C-\Test-Debug\obj\Debug\net8.0\Test-Debug.pdb
+C:\Users\Multiprojekt\Desktop\C-\Test-Debug\obj\Debug\net8.0\Test-Debug.genruntimeconfig.cache
+C:\Users\Multiprojekt\Desktop\C-\Test-Debug\obj\Debug\net8.0\ref\Test-Debug.dll
