@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Challenge-project-work-variable-data-c-sharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c39e5b2307ce4ffba4330221e0c6a0c54882387")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+142a32b7fccffa1c438b2ece8ddb8c4757d8a83c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Challenge-project-work-variable-data-c-sharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Challenge-project-work-variable-data-c-sharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+C:\Users\Multiprojekt\Desktop\C-\CR-Seria-zadan\bin\Debug\net8.0\CR-Seria-zadan.exe
+C:\Users\Multiprojekt\Desktop\C-\CR-Seria-zadan\bin\Debug\net8.0\CR-Seria-zadan.deps.json
+C:\Users\Multiprojekt\Desktop\C-\CR-Seria-zadan\bin\Debug\net8.0\CR-Seria-zadan.runtimeconfig.json
+C:\Users\Multiprojekt\Desktop\C-\CR-Seria-zadan\bin\Debug\net8.0\CR-Seria-zadan.dll
+C:\Users\Multiprojekt\Desktop\C-\CR-Seria-zadan\bin\Debug\net8.0\CR-Seria-zadan.pdb
+C:\Users\Multiprojekt\Desktop\C-\CR-Seria-zadan\obj\Debug\net8.0\CR-Seria-zadan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Multiprojekt\Desktop\C-\CR-Seria-zadan\obj\Debug\net8.0\CR-Seria-zadan.AssemblyInfoInputs.cache
+C:\Users\Multiprojekt\Desktop\C-\CR-Seria-zadan\obj\Debug\net8.0\CR-Seria-zadan.AssemblyInfo.cs
+C:\Users\Multiprojekt\Desktop\C-\CR-Seria-zadan\obj\Debug\net8.0\CR-Seria-zadan.csproj.CoreCompileInputs.cache
+C:\Users\Multiprojekt\Desktop\C-\CR-Seria-zadan\obj\Debug\net8.0\CR-Seria-zadan.sourcelink.json
+C:\Users\Multiprojekt\Desktop\C-\CR-Seria-zadan\obj\Debug\net8.0\CR-Seria-zadan.dll
+C:\Users\Multiprojekt\Desktop\C-\CR-Seria-zadan\obj\Debug\net8.0\refint\CR-Seria-zadan.dll
+C:\Users\Multiprojekt\Desktop\C-\CR-Seria-zadan\obj\Debug\net8.0\CR-Seria-zadan.pdb
+C:\Users\Multiprojekt\Desktop\C-\CR-Seria-zadan\obj\Debug\net8.0\CR-Seria-zadan.genruntimeconfig.cache
+C:\Users\Multiprojekt\Desktop\C-\CR-Seria-zadan\obj\Debug\net8.0\ref\CR-Seria-zadan.dll

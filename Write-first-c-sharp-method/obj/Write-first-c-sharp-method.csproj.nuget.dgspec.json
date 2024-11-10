@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Multiprojekt\\Desktop\\C-\\Write-first-c-sharp-method\\Write-first-c-sharp-method.csproj": {}
+    "C:\\Users\\Multiprojekt\\Desktop\\C-\\Write-first-c-sharp-method\\Write-first-c-sharp-method.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Multiprojekt\\Desktop\\C-\\Write-first-c-sharp-method\\Write-first-c-sharp-method.csproj": {
+    "C:\\Users\\Multiprojekt\\Desktop\\C-\\Write-first-c-sharp-method\\Write-first-c-sharp-method.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Multiprojekt\\Desktop\\C-\\Write-first-c-sharp-method\\Write-first-c-sharp-method.csproj",
+        "projectUniqueName": "C:\\Users\\Multiprojekt\\Desktop\\C-\\Write-first-c-sharp-method\\Write-first-c-sharp-method.csproj",
         "projectName": "Write-first-c-sharp-method",
-        "projectPath": "c:\\Users\\Multiprojekt\\Desktop\\C-\\Write-first-c-sharp-method\\Write-first-c-sharp-method.csproj",
+        "projectPath": "C:\\Users\\Multiprojekt\\Desktop\\C-\\Write-first-c-sharp-method\\Write-first-c-sharp-method.csproj",
         "packagesPath": "C:\\Users\\Multiprojekt\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Multiprojekt\\Desktop\\C-\\Write-first-c-sharp-method\\obj\\",
+        "outputPath": "C:\\Users\\Multiprojekt\\Desktop\\C-\\Write-first-c-sharp-method\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Multiprojekt\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,5 +1,4 @@
-﻿using System;
-using System.Globalization;
+﻿using System.Globalization;
 
 // Ustawienie kultury na en-US
 CultureInfo.CurrentCulture = CultureInfo.GetCultureInfo("en-US");

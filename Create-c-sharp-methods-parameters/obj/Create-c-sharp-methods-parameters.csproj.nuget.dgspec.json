@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Multiprojekt\\Desktop\\C-\\Create-c-sharp-methods-parameters\\Create-c-sharp-methods-parameters.csproj": {}
+    "C:\\Users\\Multiprojekt\\Desktop\\C-\\Create-c-sharp-methods-parameters\\Create-c-sharp-methods-parameters.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Multiprojekt\\Desktop\\C-\\Create-c-sharp-methods-parameters\\Create-c-sharp-methods-parameters.csproj": {
+    "C:\\Users\\Multiprojekt\\Desktop\\C-\\Create-c-sharp-methods-parameters\\Create-c-sharp-methods-parameters.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Multiprojekt\\Desktop\\C-\\Create-c-sharp-methods-parameters\\Create-c-sharp-methods-parameters.csproj",
+        "projectUniqueName": "C:\\Users\\Multiprojekt\\Desktop\\C-\\Create-c-sharp-methods-parameters\\Create-c-sharp-methods-parameters.csproj",
         "projectName": "Create-c-sharp-methods-parameters",
-        "projectPath": "c:\\Users\\Multiprojekt\\Desktop\\C-\\Create-c-sharp-methods-parameters\\Create-c-sharp-methods-parameters.csproj",
+        "projectPath": "C:\\Users\\Multiprojekt\\Desktop\\C-\\Create-c-sharp-methods-parameters\\Create-c-sharp-methods-parameters.csproj",
         "packagesPath": "C:\\Users\\Multiprojekt\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Multiprojekt\\Desktop\\C-\\Create-c-sharp-methods-parameters\\obj\\",
+        "outputPath": "C:\\Users\\Multiprojekt\\Desktop\\C-\\Create-c-sharp-methods-parameters\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Multiprojekt\\AppData\\Roaming\\NuGet\\NuGet.Config"
