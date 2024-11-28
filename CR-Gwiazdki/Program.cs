@@ -96,6 +96,60 @@
         }
     }
 
+    /*
+    for CPTTRN3(2, 5)
+    ****************
+    *..*..*..*..*..*
+    *..*..*..*..*..*
+    ****************
+    *..*..*..*..*..*
+    *..*..*..*..*..*
+    ****************
+    */
+    // 2 square  1, 2
+    // ********
+    // *..*..*
+    // *..*..*
+    // ********
+    public static void CPTTRN3(int l, int c) {
+        for (int i = 0; i < l; i++) {
+            if(i == 0 || i == l) {
+                for (int k = 0; k < c; k++) {
+                    Star(); Star(); Star(); Star();
+                }
+                NewLine();
+            }
+            
+            for (int m = 0; m < 2; m++) {
+                for (int k = 0; k < c; k++) {
+                    if(k == 0) {
+                        Star();
+                        Dot();
+                        Dot();
+                        Star();
+                    } else if ( k == c-1) {
+                        Dot();
+                        Dot();
+                        Star();
+                    } else {
+                        Dot();
+                        Dot();
+                        Star();
+                    }
+                }
+                NewLine();
+            }
+            
+            // Bottom line of squares (all stars)
+            for (int k = 0; k < c; k++) {
+                Star(); Star(); Star(); Star();
+            }
+            NewLine();
+        }
+    }
+
+    
+    
     public static void Main(string[] args)
     {
         // Prostokat(5, 7);
@@ -107,5 +161,7 @@
         // CPTTRN2(2, 4);
         // CPTTRN2(2, 5);
         // CPTTRN2(4, 4);
+        // CPTTRN3(4, 2);
+        CPTTRN3(3, 1);
     }
 }
