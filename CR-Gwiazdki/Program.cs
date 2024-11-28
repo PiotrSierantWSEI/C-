@@ -52,7 +52,6 @@
     }
 
     public static void CPTTRN1(int l, int c) {
-        // l,c < 100
         for (int i = 0; i < l; i++)
         {
             for (int j = 0; j < c; j++)
@@ -77,7 +76,6 @@
     }
 
     public static void CPTTRN2(int l, int c) {
-        // l,c < 100
         for (int i = 0; i < l; i++)
         {
             for (int j = 0; j < c; j++)
@@ -96,21 +94,6 @@
         }
     }
 
-    /*
-    for CPTTRN3(2, 5)
-    ****************
-    *..*..*..*..*..*
-    *..*..*..*..*..*
-    ****************
-    *..*..*..*..*..*
-    *..*..*..*..*..*
-    ****************
-    */
-    // 2 square  1, 2
-    // ********
-    // *..*..*
-    // *..*..*
-    // ********
     public static void CPTTRN3(int l, int c) {
         for (int i = 0; i < l; i++) {
             if(i == 0 || i == l) {
@@ -139,8 +122,6 @@
                 }
                 NewLine();
             }
-            
-            // Bottom line of squares (all stars)
             for (int k = 0; k < c; k++) {
                 Star(); Star(); Star(); Star();
             }
@@ -148,20 +129,49 @@
         }
     }
 
-    
+    public static void CPTTRN4(int l, int c, int h, int w) {
+        for (int i = 0; i < l; i++) {
+            if(i == 0 || i == l) {
+                for (int k = 0; k < c; k++) {
+                    Star(); Star(); Star(); Star();
+                }
+                NewLine();
+            }
+            
+            for (int m = 0; m < h; m++) {
+                for (int k = 0; k < c; k++) {
+                    if(k == 0) {
+                        Star();
+                        Dot();
+                        Dot();
+                        Star();
+                    } else if ( k == c-1) {
+                        Dot();
+                        Dot();
+                        Star();
+                    } else {
+                        Dot();
+                        Dot();
+                        Star();
+                    }
+                }
+                NewLine();
+            }
+            for (int k = 0; k < c; k++) {
+                Star(); Star(); Star(); Star();
+            }
+            NewLine();
+        }
+    }
     
     public static void Main(string[] args)
     {
         // Prostokat(5, 7);
-        // XPattern(3);
-        // XPattern(7);
         // XPattern(8);
-        // CPTTRN1(3, 3);
         // CPTTRN1(2, 5);
-        // CPTTRN2(2, 4);
-        // CPTTRN2(2, 5);
         // CPTTRN2(4, 4);
         // CPTTRN3(4, 2);
-        CPTTRN3(3, 1);
+        // CPTTRN4(2, 5, 2, 2);
+        CPTTRN4(4, 4, 1, 2);
     }
 }
