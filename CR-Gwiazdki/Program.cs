@@ -164,6 +164,40 @@
         }
     }
     
+    public static void CPTTRN5(int l, int c, int s)
+    {
+        for (int i = 0; i < c; i++) {
+            for (int j = 0; j < s + 1; j++) Star();
+        }
+        Star();
+        NewLine();
+
+        for (int row = 0; row < l; row++) {
+            for (int h = 0; h < s; h++) {
+                Star();
+                
+                for (int col = 0; col < c; col++) {
+                    bool useBackslash = ((row + col) % 2 == 0);
+                    int diagPos = h;
+                    
+                    for (int w = 0; w < s; w++) {
+                        if (w == diagPos && useBackslash) Console.Write(@"\");
+                        else if (w == (s-1-diagPos) && !useBackslash) Console.Write("/");
+                        else Dot();
+                    }
+                    Star();
+                }
+                NewLine();
+            }
+
+            for (int i = 0; i < c; i++) {
+                for (int j = 0; j < s + 1; j++) Star();
+            }
+            Star();
+            NewLine();
+        }
+    }
+    
     public static void Main(string[] args)
     {
         // Prostokat(5, 7);
@@ -171,7 +205,7 @@
         // CPTTRN1(2, 5);
         // CPTTRN2(4, 4);
         // CPTTRN3(4, 2);
-        // CPTTRN4(2, 5, 2, 2);
-        CPTTRN4(4, 4, 1, 2);
+        // CPTTRN4(4, 4, 1, 2);
+        // CPTTRN5(2, 5, 2);
     }
 }
