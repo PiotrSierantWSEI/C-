@@ -76,13 +76,36 @@
         }
     }
 
+    public static void CPTTRN2(int l, int c) {
+        // l,c < 100
+        for (int i = 0; i < l; i++)
+        {
+            for (int j = 0; j < c; j++)
+            {
+                if (i == 0 || i == l-1) {
+                    Star();
+                } else {
+                    if(j == 0 || j == c-1) {
+                        Star();
+                    } else {
+                        Dot();
+                    }
+                }
+            }
+            NewLine();
+        }
+    }
+
     public static void Main(string[] args)
     {
         // Prostokat(5, 7);
         // XPattern(3);
         // XPattern(7);
         // XPattern(8);
-        CPTTRN1(3, 3);
-        CPTTRN1(2, 5);
+        // CPTTRN1(3, 3);
+        // CPTTRN1(2, 5);
+        // CPTTRN2(2, 4);
+        // CPTTRN2(2, 5);
+        // CPTTRN2(4, 4);
     }
 }

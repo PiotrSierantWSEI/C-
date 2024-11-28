@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CR- Gwiazdki")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8ee2d6a5990c52dcd21d3f5166760d336965c2e9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+46f572b2acacc94b199a359eaf9fc59e12ff1082")]
 [assembly: System.Reflection.AssemblyProductAttribute("CR- Gwiazdki")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CR- Gwiazdki")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
