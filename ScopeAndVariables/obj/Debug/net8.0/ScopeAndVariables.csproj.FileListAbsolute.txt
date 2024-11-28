@@ -1,0 +1,15 @@
+C:\Users\Multiprojekt\Desktop\C-\ScopeAndVariables\bin\Debug\net8.0\ScopeAndVariables.exe
+C:\Users\Multiprojekt\Desktop\C-\ScopeAndVariables\bin\Debug\net8.0\ScopeAndVariables.deps.json
+C:\Users\Multiprojekt\Desktop\C-\ScopeAndVariables\bin\Debug\net8.0\ScopeAndVariables.runtimeconfig.json
+C:\Users\Multiprojekt\Desktop\C-\ScopeAndVariables\bin\Debug\net8.0\ScopeAndVariables.dll
+C:\Users\Multiprojekt\Desktop\C-\ScopeAndVariables\bin\Debug\net8.0\ScopeAndVariables.pdb
+C:\Users\Multiprojekt\Desktop\C-\ScopeAndVariables\obj\Debug\net8.0\ScopeAndVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Multiprojekt\Desktop\C-\ScopeAndVariables\obj\Debug\net8.0\ScopeAndVariables.AssemblyInfoInputs.cache
+C:\Users\Multiprojekt\Desktop\C-\ScopeAndVariables\obj\Debug\net8.0\ScopeAndVariables.AssemblyInfo.cs
+C:\Users\Multiprojekt\Desktop\C-\ScopeAndVariables\obj\Debug\net8.0\ScopeAndVariables.csproj.CoreCompileInputs.cache
+C:\Users\Multiprojekt\Desktop\C-\ScopeAndVariables\obj\Debug\net8.0\ScopeAndVariables.sourcelink.json
+C:\Users\Multiprojekt\Desktop\C-\ScopeAndVariables\obj\Debug\net8.0\ScopeAndVariables.dll
+C:\Users\Multiprojekt\Desktop\C-\ScopeAndVariables\obj\Debug\net8.0\refint\ScopeAndVariables.dll
+C:\Users\Multiprojekt\Desktop\C-\ScopeAndVariables\obj\Debug\net8.0\ScopeAndVariables.pdb
+C:\Users\Multiprojekt\Desktop\C-\ScopeAndVariables\obj\Debug\net8.0\ScopeAndVariables.genruntimeconfig.cache
+C:\Users\Multiprojekt\Desktop\C-\ScopeAndVariables\obj\Debug\net8.0\ref\ScopeAndVariables.dll

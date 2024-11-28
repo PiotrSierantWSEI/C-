@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ScopeAndVariables/1.0.0": {
+        "runtime": {
+          "ScopeAndVariables.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ScopeAndVariables/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

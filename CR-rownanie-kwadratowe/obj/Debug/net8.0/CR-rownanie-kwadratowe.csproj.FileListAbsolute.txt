@@ -1,0 +1,5 @@
+C:\Users\Multiprojekt\Desktop\C-\CR-rownanie-kwadratowe\obj\Debug\net8.0\CR-rownanie-kwadratowe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Multiprojekt\Desktop\C-\CR-rownanie-kwadratowe\obj\Debug\net8.0\CR-rownanie-kwadratowe.AssemblyInfoInputs.cache
+C:\Users\Multiprojekt\Desktop\C-\CR-rownanie-kwadratowe\obj\Debug\net8.0\CR-rownanie-kwadratowe.AssemblyInfo.cs
+C:\Users\Multiprojekt\Desktop\C-\CR-rownanie-kwadratowe\obj\Debug\net8.0\CR-rownanie-kwadratowe.csproj.CoreCompileInputs.cache
+C:\Users\Multiprojekt\Desktop\C-\CR-rownanie-kwadratowe\obj\Debug\net8.0\CR-rownanie-kwadratowe.sourcelink.json

@@ -1,0 +1,30 @@
+C:\Users\Multiprojekt\Desktop\C-\CR- Gwiazdki\bin\Debug\net8.0\CR- Gwiazdki.exe
+C:\Users\Multiprojekt\Desktop\C-\CR- Gwiazdki\bin\Debug\net8.0\CR- Gwiazdki.deps.json
+C:\Users\Multiprojekt\Desktop\C-\CR- Gwiazdki\bin\Debug\net8.0\CR- Gwiazdki.runtimeconfig.json
+C:\Users\Multiprojekt\Desktop\C-\CR- Gwiazdki\bin\Debug\net8.0\CR- Gwiazdki.dll
+C:\Users\Multiprojekt\Desktop\C-\CR- Gwiazdki\bin\Debug\net8.0\CR- Gwiazdki.pdb
+C:\Users\Multiprojekt\Desktop\C-\CR- Gwiazdki\obj\Debug\net8.0\CR- Gwiazdki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Multiprojekt\Desktop\C-\CR- Gwiazdki\obj\Debug\net8.0\CR- Gwiazdki.AssemblyInfoInputs.cache
+C:\Users\Multiprojekt\Desktop\C-\CR- Gwiazdki\obj\Debug\net8.0\CR- Gwiazdki.AssemblyInfo.cs
+C:\Users\Multiprojekt\Desktop\C-\CR- Gwiazdki\obj\Debug\net8.0\CR- Gwiazdki.csproj.CoreCompileInputs.cache
+C:\Users\Multiprojekt\Desktop\C-\CR- Gwiazdki\obj\Debug\net8.0\CR- Gwiazdki.sourcelink.json
+C:\Users\Multiprojekt\Desktop\C-\CR- Gwiazdki\obj\Debug\net8.0\CR- Gwiazdki.dll
+C:\Users\Multiprojekt\Desktop\C-\CR- Gwiazdki\obj\Debug\net8.0\refint\CR- Gwiazdki.dll
+C:\Users\Multiprojekt\Desktop\C-\CR- Gwiazdki\obj\Debug\net8.0\CR- Gwiazdki.pdb
+C:\Users\Multiprojekt\Desktop\C-\CR- Gwiazdki\obj\Debug\net8.0\CR- Gwiazdki.genruntimeconfig.cache
+C:\Users\Multiprojekt\Desktop\C-\CR- Gwiazdki\obj\Debug\net8.0\ref\CR- Gwiazdki.dll
+C:\Users\Multiprojekt\Desktop\C-\CR-Gwiazdki\bin\Debug\net8.0\CR- Gwiazdki.exe
+C:\Users\Multiprojekt\Desktop\C-\CR-Gwiazdki\bin\Debug\net8.0\CR- Gwiazdki.deps.json
+C:\Users\Multiprojekt\Desktop\C-\CR-Gwiazdki\bin\Debug\net8.0\CR- Gwiazdki.runtimeconfig.json
+C:\Users\Multiprojekt\Desktop\C-\CR-Gwiazdki\bin\Debug\net8.0\CR- Gwiazdki.dll
+C:\Users\Multiprojekt\Desktop\C-\CR-Gwiazdki\bin\Debug\net8.0\CR- Gwiazdki.pdb
+C:\Users\Multiprojekt\Desktop\C-\CR-Gwiazdki\obj\Debug\net8.0\CR- Gwiazdki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Multiprojekt\Desktop\C-\CR-Gwiazdki\obj\Debug\net8.0\CR- Gwiazdki.AssemblyInfoInputs.cache
+C:\Users\Multiprojekt\Desktop\C-\CR-Gwiazdki\obj\Debug\net8.0\CR- Gwiazdki.AssemblyInfo.cs
+C:\Users\Multiprojekt\Desktop\C-\CR-Gwiazdki\obj\Debug\net8.0\CR- Gwiazdki.csproj.CoreCompileInputs.cache
+C:\Users\Multiprojekt\Desktop\C-\CR-Gwiazdki\obj\Debug\net8.0\CR- Gwiazdki.sourcelink.json
+C:\Users\Multiprojekt\Desktop\C-\CR-Gwiazdki\obj\Debug\net8.0\CR- Gwiazdki.dll
+C:\Users\Multiprojekt\Desktop\C-\CR-Gwiazdki\obj\Debug\net8.0\refint\CR- Gwiazdki.dll
+C:\Users\Multiprojekt\Desktop\C-\CR-Gwiazdki\obj\Debug\net8.0\CR- Gwiazdki.pdb
+C:\Users\Multiprojekt\Desktop\C-\CR-Gwiazdki\obj\Debug\net8.0\CR- Gwiazdki.genruntimeconfig.cache
+C:\Users\Multiprojekt\Desktop\C-\CR-Gwiazdki\obj\Debug\net8.0\ref\CR- Gwiazdki.dll

@@ -53,6 +53,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flow-Chart-with-goto", "Flo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CR-Seria-zadan", "CR-Seria-zadan\CR-Seria-zadan.csproj", "{C1C99671-567D-468F-82D7-6F9E21BCADB7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CR- Gwiazdki", "CR- Gwiazdki\CR- Gwiazdki.csproj", "{F72AD9E2-3B52-4957-B4B9-C3FB104E1C3E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -166,5 +168,9 @@ Global
 		{C1C99671-567D-468F-82D7-6F9E21BCADB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1C99671-567D-468F-82D7-6F9E21BCADB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1C99671-567D-468F-82D7-6F9E21BCADB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F72AD9E2-3B52-4957-B4B9-C3FB104E1C3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F72AD9E2-3B52-4957-B4B9-C3FB104E1C3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F72AD9E2-3B52-4957-B4B9-C3FB104E1C3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F72AD9E2-3B52-4957-B4B9-C3FB104E1C3E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

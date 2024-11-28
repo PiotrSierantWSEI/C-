@@ -1,0 +1,15 @@
+C:\Users\Multiprojekt\Desktop\C-\Loop\bin\Debug\net8.0\Loop.exe
+C:\Users\Multiprojekt\Desktop\C-\Loop\bin\Debug\net8.0\Loop.deps.json
+C:\Users\Multiprojekt\Desktop\C-\Loop\bin\Debug\net8.0\Loop.runtimeconfig.json
+C:\Users\Multiprojekt\Desktop\C-\Loop\bin\Debug\net8.0\Loop.dll
+C:\Users\Multiprojekt\Desktop\C-\Loop\bin\Debug\net8.0\Loop.pdb
+C:\Users\Multiprojekt\Desktop\C-\Loop\obj\Debug\net8.0\Loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Multiprojekt\Desktop\C-\Loop\obj\Debug\net8.0\Loop.AssemblyInfoInputs.cache
+C:\Users\Multiprojekt\Desktop\C-\Loop\obj\Debug\net8.0\Loop.AssemblyInfo.cs
+C:\Users\Multiprojekt\Desktop\C-\Loop\obj\Debug\net8.0\Loop.csproj.CoreCompileInputs.cache
+C:\Users\Multiprojekt\Desktop\C-\Loop\obj\Debug\net8.0\Loop.sourcelink.json
+C:\Users\Multiprojekt\Desktop\C-\Loop\obj\Debug\net8.0\Loop.dll
+C:\Users\Multiprojekt\Desktop\C-\Loop\obj\Debug\net8.0\refint\Loop.dll
+C:\Users\Multiprojekt\Desktop\C-\Loop\obj\Debug\net8.0\Loop.pdb
+C:\Users\Multiprojekt\Desktop\C-\Loop\obj\Debug\net8.0\Loop.genruntimeconfig.cache
+C:\Users\Multiprojekt\Desktop\C-\Loop\obj\Debug\net8.0\ref\Loop.dll
