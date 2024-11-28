@@ -1,0 +1,15 @@
+C:\Users\Multiprojekt\Desktop\C-\CR-Objetosc-stozka\bin\Debug\net8.0\CR-Objetosc-stozka.exe
+C:\Users\Multiprojekt\Desktop\C-\CR-Objetosc-stozka\bin\Debug\net8.0\CR-Objetosc-stozka.deps.json
+C:\Users\Multiprojekt\Desktop\C-\CR-Objetosc-stozka\bin\Debug\net8.0\CR-Objetosc-stozka.runtimeconfig.json
+C:\Users\Multiprojekt\Desktop\C-\CR-Objetosc-stozka\bin\Debug\net8.0\CR-Objetosc-stozka.dll
+C:\Users\Multiprojekt\Desktop\C-\CR-Objetosc-stozka\bin\Debug\net8.0\CR-Objetosc-stozka.pdb
+C:\Users\Multiprojekt\Desktop\C-\CR-Objetosc-stozka\obj\Debug\net8.0\CR-Objetosc-stozka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Multiprojekt\Desktop\C-\CR-Objetosc-stozka\obj\Debug\net8.0\CR-Objetosc-stozka.AssemblyInfoInputs.cache
+C:\Users\Multiprojekt\Desktop\C-\CR-Objetosc-stozka\obj\Debug\net8.0\CR-Objetosc-stozka.AssemblyInfo.cs
+C:\Users\Multiprojekt\Desktop\C-\CR-Objetosc-stozka\obj\Debug\net8.0\CR-Objetosc-stozka.csproj.CoreCompileInputs.cache
+C:\Users\Multiprojekt\Desktop\C-\CR-Objetosc-stozka\obj\Debug\net8.0\CR-Objetosc-stozka.sourcelink.json
+C:\Users\Multiprojekt\Desktop\C-\CR-Objetosc-stozka\obj\Debug\net8.0\CR-Objetosc-stozka.dll
+C:\Users\Multiprojekt\Desktop\C-\CR-Objetosc-stozka\obj\Debug\net8.0\refint\CR-Objetosc-stozka.dll
+C:\Users\Multiprojekt\Desktop\C-\CR-Objetosc-stozka\obj\Debug\net8.0\CR-Objetosc-stozka.pdb
+C:\Users\Multiprojekt\Desktop\C-\CR-Objetosc-stozka\obj\Debug\net8.0\CR-Objetosc-stozka.genruntimeconfig.cache
+C:\Users\Multiprojekt\Desktop\C-\CR-Objetosc-stozka\obj\Debug\net8.0\ref\CR-Objetosc-stozka.dll
