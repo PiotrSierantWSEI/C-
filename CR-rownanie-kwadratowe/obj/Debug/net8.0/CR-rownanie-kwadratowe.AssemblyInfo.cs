@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CR-rownanie-kwadratowe")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16e6a90ad8b1eff6ff4ca7946192776331548be5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f9969f4f2a044c899bf17be80e32ed8d5f5cb85")]
 [assembly: System.Reflection.AssemblyProductAttribute("CR-rownanie-kwadratowe")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CR-rownanie-kwadratowe")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
