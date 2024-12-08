@@ -90,7 +90,7 @@ class Program
         }
         catch (Exception)
         {
-            Console.WriteLine($"obiekt nie istnieje");
+            Console.WriteLine("obiekt nie istnieje");
         }
     }
 }
