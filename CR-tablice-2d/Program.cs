@@ -1,49 +1,70 @@
-﻿int[] a = { -2, -1, 0, 1, 4, 1 };
-int[] b = { -3, -2, -1, 1, 2, 3 };
-
-int[] c = { 1, 2, 3 };
-int[] d = { -3, -2, -1 };
+﻿int[] a = new int[] {-2, -1, 0, 1, 4};
+int[] b = new int[] {-3, -2, -1, 1, 2, 3};
+int[] c = new int[] {0, 1, 1, 2, 3, 3, 3};
+int[] d = new int[] {0, 1, 2, 3, 3};
 
 Print(a, b);
 Print(c, d);
-static void Print(int[] a, int[] b)
-{
+
+a = new int[] {-2, -1, 0, 1, 4};
+b = new int[] {-3, -2, -1, 1, 2, 3};
+
+static void Print(int[] a, int[] b) {
     bool empty = true;
     int[] result = new int[0];
-    for (int i = 0; i < a.Length; i++)
-    {
-        for (int j = 0; j < b.Length; j++)
-        {
-            if (a[i] == b[j])
-            {
-                empty = false;
-                bool isExist = false;
-                for (int k = 0; k < result.Length; k++)
-                {
-                    if (result[k] == a[i])
-                    {
-                        isExist = true;
-                        break;
-                    }
-                }
-                if (!isExist)
-                {
-                    Array.Resize(ref result, result.Length + 1);
-                    result[result.Length - 1] = a[i];
-                }
 
+    for (int i = 0; i < a.Length; i++) {
+        bool isExist = false;
+        for (int j = 0; j < b.Length; j++) {
+            if (a[i] == b[j]) {
+                isExist = true;
                 break;
             }
         }
+        if (!isExist) {
+            empty = false;
+            bool isDuplicate = false;
+            for (int k = 0; k < result.Length; k++) {
+                if (result[k] == a[i]) {
+                    isDuplicate = true;
+                    break;
+                }
+            }
+            if (!isDuplicate) {
+                Array.Resize(ref result, result.Length + 1);
+                result[result.Length - 1] = a[i];
+            }
+        }
     }
-    if (empty)
-    {
+
+    for (int i = 0; i < b.Length; i++) {
+        bool isExist = false;
+        for (int j = 0; j < a.Length; j++) {
+            if (b[i] == a[j]) {
+                isExist = true;
+                break;
+            }
+        }
+        if (!isExist) {
+            empty = false;
+            bool isDuplicate = false;
+            for (int k = 0; k < result.Length; k++) {
+                if (result[k] == b[i]) {
+                    isDuplicate = true;
+                    break;
+                }
+            }
+            if (!isDuplicate) {
+                Array.Resize(ref result, result.Length + 1);
+                result[result.Length - 1] = b[i];
+            }
+        }
+    }
+
+    if (empty) {
         Console.WriteLine("empty");
     } else {
-        for (int i = 0; i < result.Length; i++)
-        {
-            Console.Write(result[i] + " ");
-        }
-        Console.WriteLine();
+        Array.Sort(result);
+        Console.WriteLine(string.Join(" ", result));
     }
 }
