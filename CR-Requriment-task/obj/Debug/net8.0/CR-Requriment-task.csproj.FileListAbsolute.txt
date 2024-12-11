@@ -1,0 +1,15 @@
+C:\Users\Multiprojekt\Desktop\C-\CR-Requriment-task\bin\Debug\net8.0\CR-Requriment-task.exe
+C:\Users\Multiprojekt\Desktop\C-\CR-Requriment-task\bin\Debug\net8.0\CR-Requriment-task.deps.json
+C:\Users\Multiprojekt\Desktop\C-\CR-Requriment-task\bin\Debug\net8.0\CR-Requriment-task.runtimeconfig.json
+C:\Users\Multiprojekt\Desktop\C-\CR-Requriment-task\bin\Debug\net8.0\CR-Requriment-task.dll
+C:\Users\Multiprojekt\Desktop\C-\CR-Requriment-task\bin\Debug\net8.0\CR-Requriment-task.pdb
+C:\Users\Multiprojekt\Desktop\C-\CR-Requriment-task\obj\Debug\net8.0\CR-Requriment-task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Multiprojekt\Desktop\C-\CR-Requriment-task\obj\Debug\net8.0\CR-Requriment-task.AssemblyInfoInputs.cache
+C:\Users\Multiprojekt\Desktop\C-\CR-Requriment-task\obj\Debug\net8.0\CR-Requriment-task.AssemblyInfo.cs
+C:\Users\Multiprojekt\Desktop\C-\CR-Requriment-task\obj\Debug\net8.0\CR-Requriment-task.csproj.CoreCompileInputs.cache
+C:\Users\Multiprojekt\Desktop\C-\CR-Requriment-task\obj\Debug\net8.0\CR-Requriment-task.sourcelink.json
+C:\Users\Multiprojekt\Desktop\C-\CR-Requriment-task\obj\Debug\net8.0\CR-Requriment-task.dll
+C:\Users\Multiprojekt\Desktop\C-\CR-Requriment-task\obj\Debug\net8.0\refint\CR-Requriment-task.dll
+C:\Users\Multiprojekt\Desktop\C-\CR-Requriment-task\obj\Debug\net8.0\CR-Requriment-task.pdb
+C:\Users\Multiprojekt\Desktop\C-\CR-Requriment-task\obj\Debug\net8.0\CR-Requriment-task.genruntimeconfig.cache
+C:\Users\Multiprojekt\Desktop\C-\CR-Requriment-task\obj\Debug\net8.0\ref\CR-Requriment-task.dll
