@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Guided-project-work-variable-data-c-sharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6620858d01e2771da3d4ce82c6c5b57b58abe936")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ced19048412842f5a09b25709344c77e0f20e5e6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Guided-project-work-variable-data-c-sharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Guided-project-work-variable-data-c-sharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

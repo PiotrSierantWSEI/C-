@@ -1,0 +1,15 @@
+C:\Users\Multiprojekt\Desktop\C-\CR-tablice-2d-3\bin\Debug\net8.0\CR-tablice-2D-3.exe
+C:\Users\Multiprojekt\Desktop\C-\CR-tablice-2d-3\bin\Debug\net8.0\CR-tablice-2D-3.deps.json
+C:\Users\Multiprojekt\Desktop\C-\CR-tablice-2d-3\bin\Debug\net8.0\CR-tablice-2D-3.runtimeconfig.json
+C:\Users\Multiprojekt\Desktop\C-\CR-tablice-2d-3\bin\Debug\net8.0\CR-tablice-2D-3.dll
+C:\Users\Multiprojekt\Desktop\C-\CR-tablice-2d-3\bin\Debug\net8.0\CR-tablice-2D-3.pdb
+C:\Users\Multiprojekt\Desktop\C-\CR-tablice-2d-3\obj\Debug\net8.0\CR-tablice-2D-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Multiprojekt\Desktop\C-\CR-tablice-2d-3\obj\Debug\net8.0\CR-tablice-2D-3.AssemblyInfoInputs.cache
+C:\Users\Multiprojekt\Desktop\C-\CR-tablice-2d-3\obj\Debug\net8.0\CR-tablice-2D-3.AssemblyInfo.cs
+C:\Users\Multiprojekt\Desktop\C-\CR-tablice-2d-3\obj\Debug\net8.0\CR-tablice-2D-3.csproj.CoreCompileInputs.cache
+C:\Users\Multiprojekt\Desktop\C-\CR-tablice-2d-3\obj\Debug\net8.0\CR-tablice-2D-3.sourcelink.json
+C:\Users\Multiprojekt\Desktop\C-\CR-tablice-2d-3\obj\Debug\net8.0\CR-tablice-2D-3.dll
+C:\Users\Multiprojekt\Desktop\C-\CR-tablice-2d-3\obj\Debug\net8.0\refint\CR-tablice-2D-3.dll
+C:\Users\Multiprojekt\Desktop\C-\CR-tablice-2d-3\obj\Debug\net8.0\CR-tablice-2D-3.pdb
+C:\Users\Multiprojekt\Desktop\C-\CR-tablice-2d-3\obj\Debug\net8.0\CR-tablice-2D-3.genruntimeconfig.cache
+C:\Users\Multiprojekt\Desktop\C-\CR-tablice-2d-3\obj\Debug\net8.0\ref\CR-tablice-2D-3.dll
