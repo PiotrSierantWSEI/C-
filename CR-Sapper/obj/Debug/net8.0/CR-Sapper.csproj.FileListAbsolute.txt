@@ -1,0 +1,15 @@
+C:\Users\Multiprojekt\Desktop\C-\CR-Sapper\obj\Debug\net8.0\CR-Sapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Multiprojekt\Desktop\C-\CR-Sapper\obj\Debug\net8.0\CR-Sapper.AssemblyInfoInputs.cache
+C:\Users\Multiprojekt\Desktop\C-\CR-Sapper\obj\Debug\net8.0\CR-Sapper.AssemblyInfo.cs
+C:\Users\Multiprojekt\Desktop\C-\CR-Sapper\obj\Debug\net8.0\CR-Sapper.csproj.CoreCompileInputs.cache
+C:\Users\Multiprojekt\Desktop\C-\CR-Sapper\obj\Debug\net8.0\CR-Sapper.sourcelink.json
+C:\Users\Multiprojekt\Desktop\C-\CR-Sapper\bin\Debug\net8.0\CR-Sapper.exe
+C:\Users\Multiprojekt\Desktop\C-\CR-Sapper\bin\Debug\net8.0\CR-Sapper.deps.json
+C:\Users\Multiprojekt\Desktop\C-\CR-Sapper\bin\Debug\net8.0\CR-Sapper.runtimeconfig.json
+C:\Users\Multiprojekt\Desktop\C-\CR-Sapper\bin\Debug\net8.0\CR-Sapper.dll
+C:\Users\Multiprojekt\Desktop\C-\CR-Sapper\bin\Debug\net8.0\CR-Sapper.pdb
+C:\Users\Multiprojekt\Desktop\C-\CR-Sapper\obj\Debug\net8.0\CR-Sapper.dll
+C:\Users\Multiprojekt\Desktop\C-\CR-Sapper\obj\Debug\net8.0\refint\CR-Sapper.dll
+C:\Users\Multiprojekt\Desktop\C-\CR-Sapper\obj\Debug\net8.0\CR-Sapper.pdb
+C:\Users\Multiprojekt\Desktop\C-\CR-Sapper\obj\Debug\net8.0\CR-Sapper.genruntimeconfig.cache
+C:\Users\Multiprojekt\Desktop\C-\CR-Sapper\obj\Debug\net8.0\ref\CR-Sapper.dll
