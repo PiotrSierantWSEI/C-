@@ -53,8 +53,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flow-Chart-with-goto", "Flo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CR-Seria-zadan", "CR-Seria-zadan\CR-Seria-zadan.csproj", "{C1C99671-567D-468F-82D7-6F9E21BCADB7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CR- Gwiazdki", "CR- Gwiazdki\CR- Gwiazdki.csproj", "{F72AD9E2-3B52-4957-B4B9-C3FB104E1C3E}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CR-Objetosc-stozka", "CR-Objetosc-stozka\CR-Objetosc-stozka.csproj", "{789696B8-BBE9-47CA-9E08-CE3712273E69}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CR-tablice-2d", "CR-tablice-2d\CR-tablice-2d.csproj", "{0A137C03-AD5C-4E8A-A75F-BF850A0139CB}"
@@ -64,6 +62,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CR-Requriment-task", "CR-Requriment-task\CR-Requriment-task.csproj", "{333DC71C-0EC9-4A3F-8D8E-DB45E5380CC5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CR-tablice-2D-3", "CR-tablice-2D-3\CR-tablice-2D-3.csproj", "{A6F91C98-63FA-474F-AFCB-BFCBF205B97C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CR-Tablica-postrzępiona", "CR-Tablica-postrzępiona\CR-Tablica-postrzępiona.csproj", "{C940D451-0CAD-4490-954C-5CB6B766D5D2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -202,5 +202,9 @@ Global
 		{A6F91C98-63FA-474F-AFCB-BFCBF205B97C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6F91C98-63FA-474F-AFCB-BFCBF205B97C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A6F91C98-63FA-474F-AFCB-BFCBF205B97C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C940D451-0CAD-4490-954C-5CB6B766D5D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C940D451-0CAD-4490-954C-5CB6B766D5D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C940D451-0CAD-4490-954C-5CB6B766D5D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C940D451-0CAD-4490-954C-5CB6B766D5D2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\Multiprojekt\Desktop\C-\CR-Tablica-postrzępiona\bin\Debug\net8.0\CR-Tablica-postrzępiona.exe
+C:\Users\Multiprojekt\Desktop\C-\CR-Tablica-postrzępiona\bin\Debug\net8.0\CR-Tablica-postrzępiona.deps.json
+C:\Users\Multiprojekt\Desktop\C-\CR-Tablica-postrzępiona\bin\Debug\net8.0\CR-Tablica-postrzępiona.runtimeconfig.json
+C:\Users\Multiprojekt\Desktop\C-\CR-Tablica-postrzępiona\bin\Debug\net8.0\CR-Tablica-postrzępiona.dll
+C:\Users\Multiprojekt\Desktop\C-\CR-Tablica-postrzępiona\bin\Debug\net8.0\CR-Tablica-postrzępiona.pdb
+C:\Users\Multiprojekt\Desktop\C-\CR-Tablica-postrzępiona\obj\Debug\net8.0\CR-Tablica-postrzępiona.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Multiprojekt\Desktop\C-\CR-Tablica-postrzępiona\obj\Debug\net8.0\CR-Tablica-postrzępiona.AssemblyInfoInputs.cache
+C:\Users\Multiprojekt\Desktop\C-\CR-Tablica-postrzępiona\obj\Debug\net8.0\CR-Tablica-postrzępiona.AssemblyInfo.cs
+C:\Users\Multiprojekt\Desktop\C-\CR-Tablica-postrzępiona\obj\Debug\net8.0\CR-Tablica-postrzępiona.csproj.CoreCompileInputs.cache
+C:\Users\Multiprojekt\Desktop\C-\CR-Tablica-postrzępiona\obj\Debug\net8.0\CR-Tablica-postrzępiona.sourcelink.json
+C:\Users\Multiprojekt\Desktop\C-\CR-Tablica-postrzępiona\obj\Debug\net8.0\CR-Tablica-postrzępiona.dll
+C:\Users\Multiprojekt\Desktop\C-\CR-Tablica-postrzępiona\obj\Debug\net8.0\refint\CR-Tablica-postrzępiona.dll
+C:\Users\Multiprojekt\Desktop\C-\CR-Tablica-postrzępiona\obj\Debug\net8.0\CR-Tablica-postrzępiona.pdb
+C:\Users\Multiprojekt\Desktop\C-\CR-Tablica-postrzępiona\obj\Debug\net8.0\CR-Tablica-postrzępiona.genruntimeconfig.cache
+C:\Users\Multiprojekt\Desktop\C-\CR-Tablica-postrzępiona\obj\Debug\net8.0\ref\CR-Tablica-postrzępiona.dll

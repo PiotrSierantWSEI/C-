@@ -13,8 +13,17 @@ namespace CR_Requriment_task {
             if (m == 0) return 1;
             if (n == 0) return 0;
 
-            int[] lastDigits = new int[4] { n % 10, (n * n) % 10, (n * n * n) % 10, (n * n * n * n) % 10 };
-            return lastDigits[(m - 1) % 4];
+            
+            long lastDigitOfN = n % 10;
+            long[] lastDigits = new long[4];
+            lastDigits[0] = lastDigitOfN;
+            for (int i = 1; i < 4; i++) {
+                lastDigits[i] = (lastDigits[i - 1] * lastDigitOfN) % 10;
+            }
+            return (int)lastDigits[(m - 1) % 4];
+
+            // int[] lastDigits = new int[4] { n % 10, (n * n) % 10, (n * n * n) % 10, (n * n * n * n) % 10 };
+            // return lastDigits[(m - 1) % 4];
         }
     }
 }
