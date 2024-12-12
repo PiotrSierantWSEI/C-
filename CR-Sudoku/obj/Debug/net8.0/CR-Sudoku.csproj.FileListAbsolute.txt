@@ -1,0 +1,15 @@
+C:\Users\Multiprojekt\Desktop\C-\CR-Sudoku\bin\Debug\net8.0\CR-Sudoku.exe
+C:\Users\Multiprojekt\Desktop\C-\CR-Sudoku\bin\Debug\net8.0\CR-Sudoku.deps.json
+C:\Users\Multiprojekt\Desktop\C-\CR-Sudoku\bin\Debug\net8.0\CR-Sudoku.runtimeconfig.json
+C:\Users\Multiprojekt\Desktop\C-\CR-Sudoku\bin\Debug\net8.0\CR-Sudoku.dll
+C:\Users\Multiprojekt\Desktop\C-\CR-Sudoku\bin\Debug\net8.0\CR-Sudoku.pdb
+C:\Users\Multiprojekt\Desktop\C-\CR-Sudoku\obj\Debug\net8.0\CR-Sudoku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Multiprojekt\Desktop\C-\CR-Sudoku\obj\Debug\net8.0\CR-Sudoku.AssemblyInfoInputs.cache
+C:\Users\Multiprojekt\Desktop\C-\CR-Sudoku\obj\Debug\net8.0\CR-Sudoku.AssemblyInfo.cs
+C:\Users\Multiprojekt\Desktop\C-\CR-Sudoku\obj\Debug\net8.0\CR-Sudoku.csproj.CoreCompileInputs.cache
+C:\Users\Multiprojekt\Desktop\C-\CR-Sudoku\obj\Debug\net8.0\CR-Sudoku.sourcelink.json
+C:\Users\Multiprojekt\Desktop\C-\CR-Sudoku\obj\Debug\net8.0\CR-Sudoku.dll
+C:\Users\Multiprojekt\Desktop\C-\CR-Sudoku\obj\Debug\net8.0\refint\CR-Sudoku.dll
+C:\Users\Multiprojekt\Desktop\C-\CR-Sudoku\obj\Debug\net8.0\CR-Sudoku.pdb
+C:\Users\Multiprojekt\Desktop\C-\CR-Sudoku\obj\Debug\net8.0\CR-Sudoku.genruntimeconfig.cache
+C:\Users\Multiprojekt\Desktop\C-\CR-Sudoku\obj\Debug\net8.0\ref\CR-Sudoku.dll
