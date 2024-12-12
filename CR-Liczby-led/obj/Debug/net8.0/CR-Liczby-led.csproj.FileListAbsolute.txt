@@ -1,0 +1,15 @@
+C:\Users\Multiprojekt\Desktop\C-\CR-Liczby-led\obj\Debug\net8.0\CR-Liczby-led.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Multiprojekt\Desktop\C-\CR-Liczby-led\obj\Debug\net8.0\CR-Liczby-led.AssemblyInfoInputs.cache
+C:\Users\Multiprojekt\Desktop\C-\CR-Liczby-led\obj\Debug\net8.0\CR-Liczby-led.AssemblyInfo.cs
+C:\Users\Multiprojekt\Desktop\C-\CR-Liczby-led\obj\Debug\net8.0\CR-Liczby-led.csproj.CoreCompileInputs.cache
+C:\Users\Multiprojekt\Desktop\C-\CR-Liczby-led\obj\Debug\net8.0\CR-Liczby-led.sourcelink.json
+C:\Users\Multiprojekt\Desktop\C-\CR-Liczby-led\bin\Debug\net8.0\CR-Liczby-led.exe
+C:\Users\Multiprojekt\Desktop\C-\CR-Liczby-led\bin\Debug\net8.0\CR-Liczby-led.deps.json
+C:\Users\Multiprojekt\Desktop\C-\CR-Liczby-led\bin\Debug\net8.0\CR-Liczby-led.runtimeconfig.json
+C:\Users\Multiprojekt\Desktop\C-\CR-Liczby-led\bin\Debug\net8.0\CR-Liczby-led.dll
+C:\Users\Multiprojekt\Desktop\C-\CR-Liczby-led\bin\Debug\net8.0\CR-Liczby-led.pdb
+C:\Users\Multiprojekt\Desktop\C-\CR-Liczby-led\obj\Debug\net8.0\CR-Liczby-led.dll
+C:\Users\Multiprojekt\Desktop\C-\CR-Liczby-led\obj\Debug\net8.0\refint\CR-Liczby-led.dll
+C:\Users\Multiprojekt\Desktop\C-\CR-Liczby-led\obj\Debug\net8.0\CR-Liczby-led.pdb
+C:\Users\Multiprojekt\Desktop\C-\CR-Liczby-led\obj\Debug\net8.0\CR-Liczby-led.genruntimeconfig.cache
+C:\Users\Multiprojekt\Desktop\C-\CR-Liczby-led\obj\Debug\net8.0\ref\CR-Liczby-led.dll
