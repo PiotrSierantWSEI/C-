@@ -1,0 +1,15 @@
+C:\Users\Multiprojekt\Desktop\C-\CR-Liczby-led-reverse\bin\Debug\net8.0\CR-Liczby-led-reverse.exe
+C:\Users\Multiprojekt\Desktop\C-\CR-Liczby-led-reverse\bin\Debug\net8.0\CR-Liczby-led-reverse.deps.json
+C:\Users\Multiprojekt\Desktop\C-\CR-Liczby-led-reverse\bin\Debug\net8.0\CR-Liczby-led-reverse.runtimeconfig.json
+C:\Users\Multiprojekt\Desktop\C-\CR-Liczby-led-reverse\bin\Debug\net8.0\CR-Liczby-led-reverse.dll
+C:\Users\Multiprojekt\Desktop\C-\CR-Liczby-led-reverse\bin\Debug\net8.0\CR-Liczby-led-reverse.pdb
+C:\Users\Multiprojekt\Desktop\C-\CR-Liczby-led-reverse\obj\Debug\net8.0\CR-Liczby-led-reverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Multiprojekt\Desktop\C-\CR-Liczby-led-reverse\obj\Debug\net8.0\CR-Liczby-led-reverse.AssemblyInfoInputs.cache
+C:\Users\Multiprojekt\Desktop\C-\CR-Liczby-led-reverse\obj\Debug\net8.0\CR-Liczby-led-reverse.AssemblyInfo.cs
+C:\Users\Multiprojekt\Desktop\C-\CR-Liczby-led-reverse\obj\Debug\net8.0\CR-Liczby-led-reverse.csproj.CoreCompileInputs.cache
+C:\Users\Multiprojekt\Desktop\C-\CR-Liczby-led-reverse\obj\Debug\net8.0\CR-Liczby-led-reverse.sourcelink.json
+C:\Users\Multiprojekt\Desktop\C-\CR-Liczby-led-reverse\obj\Debug\net8.0\CR-Liczby-led-reverse.dll
+C:\Users\Multiprojekt\Desktop\C-\CR-Liczby-led-reverse\obj\Debug\net8.0\refint\CR-Liczby-led-reverse.dll
+C:\Users\Multiprojekt\Desktop\C-\CR-Liczby-led-reverse\obj\Debug\net8.0\CR-Liczby-led-reverse.pdb
+C:\Users\Multiprojekt\Desktop\C-\CR-Liczby-led-reverse\obj\Debug\net8.0\CR-Liczby-led-reverse.genruntimeconfig.cache
+C:\Users\Multiprojekt\Desktop\C-\CR-Liczby-led-reverse\obj\Debug\net8.0\ref\CR-Liczby-led-reverse.dll
