@@ -1,0 +1,15 @@
+C:\Users\Multiprojekt\Desktop\C-\CR-Sprawdzian-probny\bin\Debug\net8.0\CR-Sprawdzian-probny.exe
+C:\Users\Multiprojekt\Desktop\C-\CR-Sprawdzian-probny\bin\Debug\net8.0\CR-Sprawdzian-probny.deps.json
+C:\Users\Multiprojekt\Desktop\C-\CR-Sprawdzian-probny\bin\Debug\net8.0\CR-Sprawdzian-probny.runtimeconfig.json
+C:\Users\Multiprojekt\Desktop\C-\CR-Sprawdzian-probny\bin\Debug\net8.0\CR-Sprawdzian-probny.dll
+C:\Users\Multiprojekt\Desktop\C-\CR-Sprawdzian-probny\bin\Debug\net8.0\CR-Sprawdzian-probny.pdb
+C:\Users\Multiprojekt\Desktop\C-\CR-Sprawdzian-probny\obj\Debug\net8.0\CR-Sprawdzian-probny.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Multiprojekt\Desktop\C-\CR-Sprawdzian-probny\obj\Debug\net8.0\CR-Sprawdzian-probny.AssemblyInfoInputs.cache
+C:\Users\Multiprojekt\Desktop\C-\CR-Sprawdzian-probny\obj\Debug\net8.0\CR-Sprawdzian-probny.AssemblyInfo.cs
+C:\Users\Multiprojekt\Desktop\C-\CR-Sprawdzian-probny\obj\Debug\net8.0\CR-Sprawdzian-probny.csproj.CoreCompileInputs.cache
+C:\Users\Multiprojekt\Desktop\C-\CR-Sprawdzian-probny\obj\Debug\net8.0\CR-Sprawdzian-probny.sourcelink.json
+C:\Users\Multiprojekt\Desktop\C-\CR-Sprawdzian-probny\obj\Debug\net8.0\CR-Sprawdzian-probny.dll
+C:\Users\Multiprojekt\Desktop\C-\CR-Sprawdzian-probny\obj\Debug\net8.0\refint\CR-Sprawdzian-probny.dll
+C:\Users\Multiprojekt\Desktop\C-\CR-Sprawdzian-probny\obj\Debug\net8.0\CR-Sprawdzian-probny.pdb
+C:\Users\Multiprojekt\Desktop\C-\CR-Sprawdzian-probny\obj\Debug\net8.0\CR-Sprawdzian-probny.genruntimeconfig.cache
+C:\Users\Multiprojekt\Desktop\C-\CR-Sprawdzian-probny\obj\Debug\net8.0\ref\CR-Sprawdzian-probny.dll
