@@ -1,0 +1,6 @@
+C:\Users\Multiprojekt\Desktop\C-\W-Rabat-na-loty\obj\Debug\net5.0\W-Rabat-na-loty.csproj.AssemblyReference.cache
+C:\Users\Multiprojekt\Desktop\C-\W-Rabat-na-loty\obj\Debug\net5.0\W-Rabat-na-loty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Multiprojekt\Desktop\C-\W-Rabat-na-loty\obj\Debug\net5.0\W-Rabat-na-loty.AssemblyInfoInputs.cache
+C:\Users\Multiprojekt\Desktop\C-\W-Rabat-na-loty\obj\Debug\net5.0\W-Rabat-na-loty.AssemblyInfo.cs
+C:\Users\Multiprojekt\Desktop\C-\W-Rabat-na-loty\obj\Debug\net5.0\W-Rabat-na-loty.csproj.CoreCompileInputs.cache
+C:\Users\Multiprojekt\Desktop\C-\W-Rabat-na-loty\obj\Debug\net5.0\W-Rabat-na-loty.sourcelink.json
