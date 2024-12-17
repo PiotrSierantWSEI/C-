@@ -13,3 +13,11 @@ C:\Users\Multiprojekt\Desktop\C-\Try-Catch-Finally\obj\Debug\net8.0\refint\Try-C
 C:\Users\Multiprojekt\Desktop\C-\Try-Catch-Finally\obj\Debug\net8.0\Try-Catch-Finally.pdb
 C:\Users\Multiprojekt\Desktop\C-\Try-Catch-Finally\obj\Debug\net8.0\Try-Catch-Finally.genruntimeconfig.cache
 C:\Users\Multiprojekt\Desktop\C-\Try-Catch-Finally\obj\Debug\net8.0\ref\Try-Catch-Finally.dll
+C:\Users\Multiprojekt\Desktop\C-\L-Try-Catch-Finally\obj\Debug\net8.0\Try-Catch-Finally.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Multiprojekt\Desktop\C-\L-Try-Catch-Finally\obj\Debug\net8.0\Try-Catch-Finally.AssemblyInfoInputs.cache
+C:\Users\Multiprojekt\Desktop\C-\L-Try-Catch-Finally\obj\Debug\net8.0\Try-Catch-Finally.AssemblyInfo.cs
+C:\Users\Multiprojekt\Desktop\C-\L-Try-Catch-Finally\obj\Debug\net8.0\Try-Catch-Finally.csproj.CoreCompileInputs.cache
+C:\Users\Multiprojekt\Desktop\C-\L-Try-Catch-Finally\obj\Debug\net8.0\Try-Catch-Finally.sourcelink.json
+C:\Users\Multiprojekt\Desktop\C-\L-Try-Catch-Finally\obj\Debug\net8.0\Try-Catch-Finally.dll
+C:\Users\Multiprojekt\Desktop\C-\L-Try-Catch-Finally\obj\Debug\net8.0\refint\Try-Catch-Finally.dll
+C:\Users\Multiprojekt\Desktop\C-\L-Try-Catch-Finally\obj\Debug\net8.0\Try-Catch-Finally.pdb
