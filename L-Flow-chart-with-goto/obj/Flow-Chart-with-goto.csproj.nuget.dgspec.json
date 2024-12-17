@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Multiprojekt\\Desktop\\C-\\Flow-Chart-with-goto\\Flow-Chart-with-goto.csproj": {}
+    "C:\\Users\\Multiprojekt\\Desktop\\C-\\L-Flow-chart-with-goto\\Flow-Chart-with-goto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Multiprojekt\\Desktop\\C-\\Flow-Chart-with-goto\\Flow-Chart-with-goto.csproj": {
+    "C:\\Users\\Multiprojekt\\Desktop\\C-\\L-Flow-chart-with-goto\\Flow-Chart-with-goto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Multiprojekt\\Desktop\\C-\\Flow-Chart-with-goto\\Flow-Chart-with-goto.csproj",
+        "projectUniqueName": "C:\\Users\\Multiprojekt\\Desktop\\C-\\L-Flow-chart-with-goto\\Flow-Chart-with-goto.csproj",
         "projectName": "Flow-Chart-with-goto",
-        "projectPath": "C:\\Users\\Multiprojekt\\Desktop\\C-\\Flow-Chart-with-goto\\Flow-Chart-with-goto.csproj",
+        "projectPath": "C:\\Users\\Multiprojekt\\Desktop\\C-\\L-Flow-chart-with-goto\\Flow-Chart-with-goto.csproj",
         "packagesPath": "C:\\Users\\Multiprojekt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Multiprojekt\\Desktop\\C-\\Flow-Chart-with-goto\\obj\\",
+        "outputPath": "C:\\Users\\Multiprojekt\\Desktop\\C-\\L-Flow-chart-with-goto\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Multiprojekt\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Multiprojekt\\Desktop\\C-\\Loop\\Loop.csproj": {}
+    "C:\\Users\\Multiprojekt\\Desktop\\C-\\L-Loop\\Loop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Multiprojekt\\Desktop\\C-\\Loop\\Loop.csproj": {
+    "C:\\Users\\Multiprojekt\\Desktop\\C-\\L-Loop\\Loop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Multiprojekt\\Desktop\\C-\\Loop\\Loop.csproj",
+        "projectUniqueName": "C:\\Users\\Multiprojekt\\Desktop\\C-\\L-Loop\\Loop.csproj",
         "projectName": "Loop",
-        "projectPath": "C:\\Users\\Multiprojekt\\Desktop\\C-\\Loop\\Loop.csproj",
+        "projectPath": "C:\\Users\\Multiprojekt\\Desktop\\C-\\L-Loop\\Loop.csproj",
         "packagesPath": "C:\\Users\\Multiprojekt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Multiprojekt\\Desktop\\C-\\Loop\\obj\\",
+        "outputPath": "C:\\Users\\Multiprojekt\\Desktop\\C-\\L-Loop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Multiprojekt\\AppData\\Roaming\\NuGet\\NuGet.Config"

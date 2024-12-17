@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Multiprojekt\\Desktop\\C-\\Challenge-project-branching-looping-CSharp-main\\ChallengeProject\\Starter\\Starter.csproj",
+      "projectUniqueName": "C:\\Users\\Multiprojekt\\Desktop\\C-\\L-Challenge-project-branching-looping-CSharp-main\\ChallengeProject\\Starter\\Starter.csproj",
       "projectName": "Starter",
-      "projectPath": "C:\\Users\\Multiprojekt\\Desktop\\C-\\Challenge-project-branching-looping-CSharp-main\\ChallengeProject\\Starter\\Starter.csproj",
+      "projectPath": "C:\\Users\\Multiprojekt\\Desktop\\C-\\L-Challenge-project-branching-looping-CSharp-main\\ChallengeProject\\Starter\\Starter.csproj",
       "packagesPath": "C:\\Users\\Multiprojekt\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Multiprojekt\\Desktop\\C-\\Challenge-project-branching-looping-CSharp-main\\ChallengeProject\\Starter\\obj\\",
+      "outputPath": "C:\\Users\\Multiprojekt\\Desktop\\C-\\L-Challenge-project-branching-looping-CSharp-main\\ChallengeProject\\Starter\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Multiprojekt\\AppData\\Roaming\\NuGet\\NuGet.Config"

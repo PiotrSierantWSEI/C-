@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Multiprojekt\\Desktop\\C-\\CR-rownanie-kwadratowe\\CR-rownanie-kwadratowe.csproj": {}
+    "C:\\Users\\Multiprojekt\\Desktop\\C-\\CR-Rownanie-kwadratowe\\CR-rownanie-kwadratowe.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Multiprojekt\\Desktop\\C-\\CR-rownanie-kwadratowe\\CR-rownanie-kwadratowe.csproj": {
+    "C:\\Users\\Multiprojekt\\Desktop\\C-\\CR-Rownanie-kwadratowe\\CR-rownanie-kwadratowe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Multiprojekt\\Desktop\\C-\\CR-rownanie-kwadratowe\\CR-rownanie-kwadratowe.csproj",
+        "projectUniqueName": "C:\\Users\\Multiprojekt\\Desktop\\C-\\CR-Rownanie-kwadratowe\\CR-rownanie-kwadratowe.csproj",
         "projectName": "CR-rownanie-kwadratowe",
-        "projectPath": "C:\\Users\\Multiprojekt\\Desktop\\C-\\CR-rownanie-kwadratowe\\CR-rownanie-kwadratowe.csproj",
+        "projectPath": "C:\\Users\\Multiprojekt\\Desktop\\C-\\CR-Rownanie-kwadratowe\\CR-rownanie-kwadratowe.csproj",
         "packagesPath": "C:\\Users\\Multiprojekt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Multiprojekt\\Desktop\\C-\\CR-rownanie-kwadratowe\\obj\\",
+        "outputPath": "C:\\Users\\Multiprojekt\\Desktop\\C-\\CR-Rownanie-kwadratowe\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Multiprojekt\\AppData\\Roaming\\NuGet\\NuGet.Config"

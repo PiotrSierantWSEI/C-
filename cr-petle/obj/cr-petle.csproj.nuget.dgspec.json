@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Multiprojekt\\Desktop\\C-\\cr-petle\\cr-petle.csproj": {}
+    "C:\\Users\\Multiprojekt\\Desktop\\C-\\CR-Petle\\cr-petle.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Multiprojekt\\Desktop\\C-\\cr-petle\\cr-petle.csproj": {
+    "C:\\Users\\Multiprojekt\\Desktop\\C-\\CR-Petle\\cr-petle.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Multiprojekt\\Desktop\\C-\\cr-petle\\cr-petle.csproj",
+        "projectUniqueName": "C:\\Users\\Multiprojekt\\Desktop\\C-\\CR-Petle\\cr-petle.csproj",
         "projectName": "cr-petle",
-        "projectPath": "C:\\Users\\Multiprojekt\\Desktop\\C-\\cr-petle\\cr-petle.csproj",
+        "projectPath": "C:\\Users\\Multiprojekt\\Desktop\\C-\\CR-Petle\\cr-petle.csproj",
         "packagesPath": "C:\\Users\\Multiprojekt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Multiprojekt\\Desktop\\C-\\cr-petle\\obj\\",
+        "outputPath": "C:\\Users\\Multiprojekt\\Desktop\\C-\\CR-Petle\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Multiprojekt\\AppData\\Roaming\\NuGet\\NuGet.Config"

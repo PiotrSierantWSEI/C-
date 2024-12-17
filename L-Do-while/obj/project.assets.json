@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Multiprojekt\\Desktop\\C-\\DoWhile\\DoWhile.csproj",
+      "projectUniqueName": "C:\\Users\\Multiprojekt\\Desktop\\C-\\L-Do-while\\DoWhile.csproj",
       "projectName": "DoWhile",
-      "projectPath": "C:\\Users\\Multiprojekt\\Desktop\\C-\\DoWhile\\DoWhile.csproj",
+      "projectPath": "C:\\Users\\Multiprojekt\\Desktop\\C-\\L-Do-while\\DoWhile.csproj",
       "packagesPath": "C:\\Users\\Multiprojekt\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Multiprojekt\\Desktop\\C-\\DoWhile\\obj\\",
+      "outputPath": "C:\\Users\\Multiprojekt\\Desktop\\C-\\L-Do-while\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Multiprojekt\\AppData\\Roaming\\NuGet\\NuGet.Config"

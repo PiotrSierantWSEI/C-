@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Multiprojekt\\Desktop\\C-\\CR-parametry\\CR-parametry.csproj": {}
+    "C:\\Users\\Multiprojekt\\Desktop\\C-\\CR-Parametry\\CR-parametry.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Multiprojekt\\Desktop\\C-\\CR-parametry\\CR-parametry.csproj": {
+    "C:\\Users\\Multiprojekt\\Desktop\\C-\\CR-Parametry\\CR-parametry.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Multiprojekt\\Desktop\\C-\\CR-parametry\\CR-parametry.csproj",
+        "projectUniqueName": "C:\\Users\\Multiprojekt\\Desktop\\C-\\CR-Parametry\\CR-parametry.csproj",
         "projectName": "CR-parametry",
-        "projectPath": "C:\\Users\\Multiprojekt\\Desktop\\C-\\CR-parametry\\CR-parametry.csproj",
+        "projectPath": "C:\\Users\\Multiprojekt\\Desktop\\C-\\CR-Parametry\\CR-parametry.csproj",
         "packagesPath": "C:\\Users\\Multiprojekt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Multiprojekt\\Desktop\\C-\\CR-parametry\\obj\\",
+        "outputPath": "C:\\Users\\Multiprojekt\\Desktop\\C-\\CR-Parametry\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Multiprojekt\\AppData\\Roaming\\NuGet\\NuGet.Config"

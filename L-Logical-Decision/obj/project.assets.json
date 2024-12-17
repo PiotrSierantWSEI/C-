@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Multiprojekt\\Desktop\\C-\\LogicalDecision\\LogicalDecision.csproj",
+      "projectUniqueName": "C:\\Users\\Multiprojekt\\Desktop\\C-\\L-Logical-Decision\\LogicalDecision.csproj",
       "projectName": "LogicalDecision",
-      "projectPath": "C:\\Users\\Multiprojekt\\Desktop\\C-\\LogicalDecision\\LogicalDecision.csproj",
+      "projectPath": "C:\\Users\\Multiprojekt\\Desktop\\C-\\L-Logical-Decision\\LogicalDecision.csproj",
       "packagesPath": "C:\\Users\\Multiprojekt\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Multiprojekt\\Desktop\\C-\\LogicalDecision\\obj\\",
+      "outputPath": "C:\\Users\\Multiprojekt\\Desktop\\C-\\L-Logical-Decision\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Multiprojekt\\AppData\\Roaming\\NuGet\\NuGet.Config"

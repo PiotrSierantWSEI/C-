@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Multiprojekt\\Desktop\\C-\\String-formatting\\String-formatting.csproj": {}
+    "C:\\Users\\Multiprojekt\\Desktop\\C-\\L-String-formatting\\String-formatting.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Multiprojekt\\Desktop\\C-\\String-formatting\\String-formatting.csproj": {
+    "C:\\Users\\Multiprojekt\\Desktop\\C-\\L-String-formatting\\String-formatting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Multiprojekt\\Desktop\\C-\\String-formatting\\String-formatting.csproj",
+        "projectUniqueName": "C:\\Users\\Multiprojekt\\Desktop\\C-\\L-String-formatting\\String-formatting.csproj",
         "projectName": "String-formatting",
-        "projectPath": "C:\\Users\\Multiprojekt\\Desktop\\C-\\String-formatting\\String-formatting.csproj",
+        "projectPath": "C:\\Users\\Multiprojekt\\Desktop\\C-\\L-String-formatting\\String-formatting.csproj",
         "packagesPath": "C:\\Users\\Multiprojekt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Multiprojekt\\Desktop\\C-\\String-formatting\\obj\\",
+        "outputPath": "C:\\Users\\Multiprojekt\\Desktop\\C-\\L-String-formatting\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Multiprojekt\\AppData\\Roaming\\NuGet\\NuGet.Config"

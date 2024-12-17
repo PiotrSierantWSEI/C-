@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Multiprojekt\\Desktop\\C-\\IndexOf-Substring\\IndexOf-Substring.csproj": {}
+    "C:\\Users\\Multiprojekt\\Desktop\\C-\\L-IndexOf-Substring\\IndexOf-Substring.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Multiprojekt\\Desktop\\C-\\IndexOf-Substring\\IndexOf-Substring.csproj": {
+    "C:\\Users\\Multiprojekt\\Desktop\\C-\\L-IndexOf-Substring\\IndexOf-Substring.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Multiprojekt\\Desktop\\C-\\IndexOf-Substring\\IndexOf-Substring.csproj",
+        "projectUniqueName": "C:\\Users\\Multiprojekt\\Desktop\\C-\\L-IndexOf-Substring\\IndexOf-Substring.csproj",
         "projectName": "IndexOf-Substring",
-        "projectPath": "C:\\Users\\Multiprojekt\\Desktop\\C-\\IndexOf-Substring\\IndexOf-Substring.csproj",
+        "projectPath": "C:\\Users\\Multiprojekt\\Desktop\\C-\\L-IndexOf-Substring\\IndexOf-Substring.csproj",
         "packagesPath": "C:\\Users\\Multiprojekt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Multiprojekt\\Desktop\\C-\\IndexOf-Substring\\obj\\",
+        "outputPath": "C:\\Users\\Multiprojekt\\Desktop\\C-\\L-IndexOf-Substring\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Multiprojekt\\AppData\\Roaming\\NuGet\\NuGet.Config"

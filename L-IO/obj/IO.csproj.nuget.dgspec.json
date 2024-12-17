@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Multiprojekt\\Desktop\\C-\\IO\\IO.csproj": {}
+    "C:\\Users\\Multiprojekt\\Desktop\\C-\\L-IO\\IO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Multiprojekt\\Desktop\\C-\\IO\\IO.csproj": {
+    "C:\\Users\\Multiprojekt\\Desktop\\C-\\L-IO\\IO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Multiprojekt\\Desktop\\C-\\IO\\IO.csproj",
+        "projectUniqueName": "C:\\Users\\Multiprojekt\\Desktop\\C-\\L-IO\\IO.csproj",
         "projectName": "IO",
-        "projectPath": "C:\\Users\\Multiprojekt\\Desktop\\C-\\IO\\IO.csproj",
+        "projectPath": "C:\\Users\\Multiprojekt\\Desktop\\C-\\L-IO\\IO.csproj",
         "packagesPath": "C:\\Users\\Multiprojekt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Multiprojekt\\Desktop\\C-\\IO\\obj\\",
+        "outputPath": "C:\\Users\\Multiprojekt\\Desktop\\C-\\L-IO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Multiprojekt\\AppData\\Roaming\\NuGet\\NuGet.Config"

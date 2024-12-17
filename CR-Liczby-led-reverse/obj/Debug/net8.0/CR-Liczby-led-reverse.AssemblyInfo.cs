@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CR-Liczby-led-reverse")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b1de2378ad046b758288af54c9833222720948d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eca4ca5805a68c67d1c55c7b33965acd0560c35f")]
 [assembly: System.Reflection.AssemblyProductAttribute("CR-Liczby-led-reverse")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CR-Liczby-led-reverse")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

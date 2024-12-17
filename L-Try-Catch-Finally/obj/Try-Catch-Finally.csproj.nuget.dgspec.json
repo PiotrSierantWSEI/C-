@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Multiprojekt\\Desktop\\C-\\Try-Catch-Finally\\Try-Catch-Finally.csproj": {}
+    "C:\\Users\\Multiprojekt\\Desktop\\C-\\L-Try-Catch-Finally\\Try-Catch-Finally.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Multiprojekt\\Desktop\\C-\\Try-Catch-Finally\\Try-Catch-Finally.csproj": {
+    "C:\\Users\\Multiprojekt\\Desktop\\C-\\L-Try-Catch-Finally\\Try-Catch-Finally.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Multiprojekt\\Desktop\\C-\\Try-Catch-Finally\\Try-Catch-Finally.csproj",
+        "projectUniqueName": "C:\\Users\\Multiprojekt\\Desktop\\C-\\L-Try-Catch-Finally\\Try-Catch-Finally.csproj",
         "projectName": "Try-Catch-Finally",
-        "projectPath": "C:\\Users\\Multiprojekt\\Desktop\\C-\\Try-Catch-Finally\\Try-Catch-Finally.csproj",
+        "projectPath": "C:\\Users\\Multiprojekt\\Desktop\\C-\\L-Try-Catch-Finally\\Try-Catch-Finally.csproj",
         "packagesPath": "C:\\Users\\Multiprojekt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Multiprojekt\\Desktop\\C-\\Try-Catch-Finally\\obj\\",
+        "outputPath": "C:\\Users\\Multiprojekt\\Desktop\\C-\\L-Try-Catch-Finally\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Multiprojekt\\AppData\\Roaming\\NuGet\\NuGet.Config"

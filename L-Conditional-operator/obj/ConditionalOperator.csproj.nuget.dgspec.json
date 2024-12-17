@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Multiprojekt\\Desktop\\C-\\ConditionalOperator\\ConditionalOperator.csproj": {}
+    "C:\\Users\\Multiprojekt\\Desktop\\C-\\L-Conditional-operator\\ConditionalOperator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Multiprojekt\\Desktop\\C-\\ConditionalOperator\\ConditionalOperator.csproj": {
+    "C:\\Users\\Multiprojekt\\Desktop\\C-\\L-Conditional-operator\\ConditionalOperator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Multiprojekt\\Desktop\\C-\\ConditionalOperator\\ConditionalOperator.csproj",
+        "projectUniqueName": "C:\\Users\\Multiprojekt\\Desktop\\C-\\L-Conditional-operator\\ConditionalOperator.csproj",
         "projectName": "ConditionalOperator",
-        "projectPath": "C:\\Users\\Multiprojekt\\Desktop\\C-\\ConditionalOperator\\ConditionalOperator.csproj",
+        "projectPath": "C:\\Users\\Multiprojekt\\Desktop\\C-\\L-Conditional-operator\\ConditionalOperator.csproj",
         "packagesPath": "C:\\Users\\Multiprojekt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Multiprojekt\\Desktop\\C-\\ConditionalOperator\\obj\\",
+        "outputPath": "C:\\Users\\Multiprojekt\\Desktop\\C-\\L-Conditional-operator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Multiprojekt\\AppData\\Roaming\\NuGet\\NuGet.Config"

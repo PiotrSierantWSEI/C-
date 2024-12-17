@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Multiprojekt\\Desktop\\C-\\challenge-project-work-variable-data-c-sharp\\Challenge-project-work-variable-data-c-sharp.csproj",
+      "projectUniqueName": "C:\\Users\\Multiprojekt\\Desktop\\C-\\L-Challenge-project-work-variable-data-c-sharp\\Challenge-project-work-variable-data-c-sharp.csproj",
       "projectName": "Challenge-project-work-variable-data-c-sharp",
-      "projectPath": "C:\\Users\\Multiprojekt\\Desktop\\C-\\challenge-project-work-variable-data-c-sharp\\Challenge-project-work-variable-data-c-sharp.csproj",
+      "projectPath": "C:\\Users\\Multiprojekt\\Desktop\\C-\\L-Challenge-project-work-variable-data-c-sharp\\Challenge-project-work-variable-data-c-sharp.csproj",
       "packagesPath": "C:\\Users\\Multiprojekt\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Multiprojekt\\Desktop\\C-\\challenge-project-work-variable-data-c-sharp\\obj\\",
+      "outputPath": "C:\\Users\\Multiprojekt\\Desktop\\C-\\L-Challenge-project-work-variable-data-c-sharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Multiprojekt\\AppData\\Roaming\\NuGet\\NuGet.Config"

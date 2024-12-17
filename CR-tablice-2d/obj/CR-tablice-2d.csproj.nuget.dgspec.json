@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Multiprojekt\\Desktop\\C-\\CR-tablice-2d\\CR-tablice-2d.csproj": {}
+    "C:\\Users\\Multiprojekt\\Desktop\\C-\\CR-Tablice-2D\\CR-tablice-2d.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Multiprojekt\\Desktop\\C-\\CR-tablice-2d\\CR-tablice-2d.csproj": {
+    "C:\\Users\\Multiprojekt\\Desktop\\C-\\CR-Tablice-2D\\CR-tablice-2d.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Multiprojekt\\Desktop\\C-\\CR-tablice-2d\\CR-tablice-2d.csproj",
+        "projectUniqueName": "C:\\Users\\Multiprojekt\\Desktop\\C-\\CR-Tablice-2D\\CR-tablice-2d.csproj",
         "projectName": "CR-tablice-2d",
-        "projectPath": "C:\\Users\\Multiprojekt\\Desktop\\C-\\CR-tablice-2d\\CR-tablice-2d.csproj",
+        "projectPath": "C:\\Users\\Multiprojekt\\Desktop\\C-\\CR-Tablice-2D\\CR-tablice-2d.csproj",
         "packagesPath": "C:\\Users\\Multiprojekt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Multiprojekt\\Desktop\\C-\\CR-tablice-2d\\obj\\",
+        "outputPath": "C:\\Users\\Multiprojekt\\Desktop\\C-\\CR-Tablice-2D\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Multiprojekt\\AppData\\Roaming\\NuGet\\NuGet.Config"

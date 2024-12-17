@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Multiprojekt\\Desktop\\C-\\TestProject\\TestProject.csproj": {}
+    "C:\\Users\\Multiprojekt\\Desktop\\C-\\L-Test-project\\TestProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Multiprojekt\\Desktop\\C-\\TestProject\\TestProject.csproj": {
+    "C:\\Users\\Multiprojekt\\Desktop\\C-\\L-Test-project\\TestProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Multiprojekt\\Desktop\\C-\\TestProject\\TestProject.csproj",
+        "projectUniqueName": "C:\\Users\\Multiprojekt\\Desktop\\C-\\L-Test-project\\TestProject.csproj",
         "projectName": "TestProject",
-        "projectPath": "C:\\Users\\Multiprojekt\\Desktop\\C-\\TestProject\\TestProject.csproj",
+        "projectPath": "C:\\Users\\Multiprojekt\\Desktop\\C-\\L-Test-project\\TestProject.csproj",
         "packagesPath": "C:\\Users\\Multiprojekt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Multiprojekt\\Desktop\\C-\\TestProject\\obj\\",
+        "outputPath": "C:\\Users\\Multiprojekt\\Desktop\\C-\\L-Test-project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Multiprojekt\\AppData\\Roaming\\NuGet\\NuGet.Config"
