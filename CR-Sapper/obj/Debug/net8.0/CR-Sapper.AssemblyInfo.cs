@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CR-Sapper")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8509360ba4109b27b1b1d27294fbc156bdb5e4be")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b1de2378ad046b758288af54c9833222720948d")]
 [assembly: System.Reflection.AssemblyProductAttribute("CR-Sapper")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CR-Sapper")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
