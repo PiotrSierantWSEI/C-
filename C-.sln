@@ -103,6 +103,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W-Rabat-na-loty", "W-Rabat-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W-Rabat-na-loty-unit-tests", "W-Rabat-na-loty-unit-tests\W-Rabat-na-loty-unit-tests.csproj", "{881EC30C-B8CE-432F-9297-23109FBFCEA5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W-Sprawdzian", "W-Sprawdzian\W-Sprawdzian.csproj", "{99E791BC-4EC5-4D7E-914C-B93A5DBC0651}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -293,6 +295,10 @@ Global
 		{881EC30C-B8CE-432F-9297-23109FBFCEA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{881EC30C-B8CE-432F-9297-23109FBFCEA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{881EC30C-B8CE-432F-9297-23109FBFCEA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99E791BC-4EC5-4D7E-914C-B93A5DBC0651}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99E791BC-4EC5-4D7E-914C-B93A5DBC0651}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99E791BC-4EC5-4D7E-914C-B93A5DBC0651}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99E791BC-4EC5-4D7E-914C-B93A5DBC0651}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

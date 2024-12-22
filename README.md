@@ -1,4 +1,5 @@
 # C#
 
-CR - zadania moodle
-L  - learn
+### **CR** - zadania moodle
+### **L**  - nauka
+### **W**  - warsztat/sprawdzian
