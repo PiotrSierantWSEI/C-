@@ -1,0 +1,15 @@
+C:\Users\Multiprojekt\Desktop\C-\CR-Trojkat-klasa\bin\Debug\net8.0\CR-Trojkat-klasa.exe
+C:\Users\Multiprojekt\Desktop\C-\CR-Trojkat-klasa\bin\Debug\net8.0\CR-Trojkat-klasa.deps.json
+C:\Users\Multiprojekt\Desktop\C-\CR-Trojkat-klasa\bin\Debug\net8.0\CR-Trojkat-klasa.runtimeconfig.json
+C:\Users\Multiprojekt\Desktop\C-\CR-Trojkat-klasa\bin\Debug\net8.0\CR-Trojkat-klasa.dll
+C:\Users\Multiprojekt\Desktop\C-\CR-Trojkat-klasa\bin\Debug\net8.0\CR-Trojkat-klasa.pdb
+C:\Users\Multiprojekt\Desktop\C-\CR-Trojkat-klasa\obj\Debug\net8.0\CR-Trojkat-klasa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Multiprojekt\Desktop\C-\CR-Trojkat-klasa\obj\Debug\net8.0\CR-Trojkat-klasa.AssemblyInfoInputs.cache
+C:\Users\Multiprojekt\Desktop\C-\CR-Trojkat-klasa\obj\Debug\net8.0\CR-Trojkat-klasa.AssemblyInfo.cs
+C:\Users\Multiprojekt\Desktop\C-\CR-Trojkat-klasa\obj\Debug\net8.0\CR-Trojkat-klasa.csproj.CoreCompileInputs.cache
+C:\Users\Multiprojekt\Desktop\C-\CR-Trojkat-klasa\obj\Debug\net8.0\CR-Trojkat-klasa.sourcelink.json
+C:\Users\Multiprojekt\Desktop\C-\CR-Trojkat-klasa\obj\Debug\net8.0\CR-Trojkat-klasa.dll
+C:\Users\Multiprojekt\Desktop\C-\CR-Trojkat-klasa\obj\Debug\net8.0\refint\CR-Trojkat-klasa.dll
+C:\Users\Multiprojekt\Desktop\C-\CR-Trojkat-klasa\obj\Debug\net8.0\CR-Trojkat-klasa.pdb
+C:\Users\Multiprojekt\Desktop\C-\CR-Trojkat-klasa\obj\Debug\net8.0\CR-Trojkat-klasa.genruntimeconfig.cache
+C:\Users\Multiprojekt\Desktop\C-\CR-Trojkat-klasa\obj\Debug\net8.0\ref\CR-Trojkat-klasa.dll

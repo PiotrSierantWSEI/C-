@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("W-Rabat-na-loty")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c9586ad3d9b1e413bed70d968d6bf0e999141779")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4e3685298ae63275fb4c9c9813d666a01c90b60")]
 [assembly: System.Reflection.AssemblyProductAttribute("W-Rabat-na-loty")]
 [assembly: System.Reflection.AssemblyTitleAttribute("W-Rabat-na-loty")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
