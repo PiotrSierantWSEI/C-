@@ -163,13 +163,13 @@ public class TrojkatMutable
         _c = newC;
     }
 
-    public void ScaleTriangle(int scale) {
+    public void ScaleTriangle(double scale) {
         if (scale <= 0)
         {
             throw new ArgumentOutOfRangeException("Skala musi być dodatnia.");
         }
-        _a *= scale;
-        _b *= scale;
-        _c *= scale;
+        _a = (int)(_a * scale);
+        _b = (int)(_b * scale);
+        _c = (int)(_c * scale);
     }
 }

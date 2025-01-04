@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CR-Objetosc-stozka")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4e3685298ae63275fb4c9c9813d666a01c90b60")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+947903bbdb578deea959df3dca6dcb14537a807e")]
 [assembly: System.Reflection.AssemblyProductAttribute("CR-Objetosc-stozka")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CR-Objetosc-stozka")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
