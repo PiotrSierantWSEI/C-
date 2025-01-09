@@ -107,6 +107,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W-Sprawdzian", "W-Sprawdzia
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CR-Trojkat-klasa", "CR-Trojkat-klasa\CR-Trojkat-klasa.csproj", "{5551365C-8522-4A96-86D8-DA3AA3C3653D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CR-Person", "CR-Person\CR-Person.csproj", "{79E37A2A-8579-4E61-A8A6-11B0BB8710AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CR-Czas24h", "CR-Czas24h\CR-Czas24h.csproj", "{081EE7FE-C8C6-4FA2-8227-E32527E08C73}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -305,6 +309,14 @@ Global
 		{5551365C-8522-4A96-86D8-DA3AA3C3653D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5551365C-8522-4A96-86D8-DA3AA3C3653D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5551365C-8522-4A96-86D8-DA3AA3C3653D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79E37A2A-8579-4E61-A8A6-11B0BB8710AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79E37A2A-8579-4E61-A8A6-11B0BB8710AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79E37A2A-8579-4E61-A8A6-11B0BB8710AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79E37A2A-8579-4E61-A8A6-11B0BB8710AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{081EE7FE-C8C6-4FA2-8227-E32527E08C73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{081EE7FE-C8C6-4FA2-8227-E32527E08C73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{081EE7FE-C8C6-4FA2-8227-E32527E08C73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{081EE7FE-C8C6-4FA2-8227-E32527E08C73}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

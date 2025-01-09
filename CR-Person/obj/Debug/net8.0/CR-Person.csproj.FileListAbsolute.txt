@@ -1,0 +1,15 @@
+C:\Users\Multiprojekt\Desktop\C-\CR-Person\bin\Debug\net8.0\CR-Person.exe
+C:\Users\Multiprojekt\Desktop\C-\CR-Person\bin\Debug\net8.0\CR-Person.deps.json
+C:\Users\Multiprojekt\Desktop\C-\CR-Person\bin\Debug\net8.0\CR-Person.runtimeconfig.json
+C:\Users\Multiprojekt\Desktop\C-\CR-Person\bin\Debug\net8.0\CR-Person.dll
+C:\Users\Multiprojekt\Desktop\C-\CR-Person\bin\Debug\net8.0\CR-Person.pdb
+C:\Users\Multiprojekt\Desktop\C-\CR-Person\obj\Debug\net8.0\CR-Person.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Multiprojekt\Desktop\C-\CR-Person\obj\Debug\net8.0\CR-Person.AssemblyInfoInputs.cache
+C:\Users\Multiprojekt\Desktop\C-\CR-Person\obj\Debug\net8.0\CR-Person.AssemblyInfo.cs
+C:\Users\Multiprojekt\Desktop\C-\CR-Person\obj\Debug\net8.0\CR-Person.csproj.CoreCompileInputs.cache
+C:\Users\Multiprojekt\Desktop\C-\CR-Person\obj\Debug\net8.0\CR-Person.sourcelink.json
+C:\Users\Multiprojekt\Desktop\C-\CR-Person\obj\Debug\net8.0\CR-Person.dll
+C:\Users\Multiprojekt\Desktop\C-\CR-Person\obj\Debug\net8.0\refint\CR-Person.dll
+C:\Users\Multiprojekt\Desktop\C-\CR-Person\obj\Debug\net8.0\CR-Person.pdb
+C:\Users\Multiprojekt\Desktop\C-\CR-Person\obj\Debug\net8.0\CR-Person.genruntimeconfig.cache
+C:\Users\Multiprojekt\Desktop\C-\CR-Person\obj\Debug\net8.0\ref\CR-Person.dll

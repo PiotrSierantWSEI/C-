@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CR-Czas24h/1.0.0": {
+        "runtime": {
+          "CR-Czas24h.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CR-Czas24h/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

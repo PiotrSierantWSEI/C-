@@ -1,0 +1,15 @@
+C:\Users\Multiprojekt\Desktop\C-\CR-Czas24h\bin\Debug\net8.0\CR-Czas24h.exe
+C:\Users\Multiprojekt\Desktop\C-\CR-Czas24h\bin\Debug\net8.0\CR-Czas24h.deps.json
+C:\Users\Multiprojekt\Desktop\C-\CR-Czas24h\bin\Debug\net8.0\CR-Czas24h.runtimeconfig.json
+C:\Users\Multiprojekt\Desktop\C-\CR-Czas24h\bin\Debug\net8.0\CR-Czas24h.dll
+C:\Users\Multiprojekt\Desktop\C-\CR-Czas24h\bin\Debug\net8.0\CR-Czas24h.pdb
+C:\Users\Multiprojekt\Desktop\C-\CR-Czas24h\obj\Debug\net8.0\CR-Czas24h.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Multiprojekt\Desktop\C-\CR-Czas24h\obj\Debug\net8.0\CR-Czas24h.AssemblyInfoInputs.cache
+C:\Users\Multiprojekt\Desktop\C-\CR-Czas24h\obj\Debug\net8.0\CR-Czas24h.AssemblyInfo.cs
+C:\Users\Multiprojekt\Desktop\C-\CR-Czas24h\obj\Debug\net8.0\CR-Czas24h.csproj.CoreCompileInputs.cache
+C:\Users\Multiprojekt\Desktop\C-\CR-Czas24h\obj\Debug\net8.0\CR-Czas24h.sourcelink.json
+C:\Users\Multiprojekt\Desktop\C-\CR-Czas24h\obj\Debug\net8.0\CR-Czas24h.dll
+C:\Users\Multiprojekt\Desktop\C-\CR-Czas24h\obj\Debug\net8.0\refint\CR-Czas24h.dll
+C:\Users\Multiprojekt\Desktop\C-\CR-Czas24h\obj\Debug\net8.0\CR-Czas24h.pdb
+C:\Users\Multiprojekt\Desktop\C-\CR-Czas24h\obj\Debug\net8.0\CR-Czas24h.genruntimeconfig.cache
+C:\Users\Multiprojekt\Desktop\C-\CR-Czas24h\obj\Debug\net8.0\ref\CR-Czas24h.dll
