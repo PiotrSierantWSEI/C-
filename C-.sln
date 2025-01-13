@@ -111,6 +111,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CR-Person", "CR-Person\CR-P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CR-Czas24h", "CR-Czas24h\CR-Czas24h.csproj", "{081EE7FE-C8C6-4FA2-8227-E32527E08C73}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CR-Definiowanie-klasy-dziedziczenie", "CR-Definiowanie-klasy-dziedziczenie\CR-Definiowanie-klasy-dziedziczenie.csproj", "{F44541B7-D3F1-4C2E-BC37-C3295FBB7529}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -317,6 +319,10 @@ Global
 		{081EE7FE-C8C6-4FA2-8227-E32527E08C73}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{081EE7FE-C8C6-4FA2-8227-E32527E08C73}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{081EE7FE-C8C6-4FA2-8227-E32527E08C73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F44541B7-D3F1-4C2E-BC37-C3295FBB7529}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F44541B7-D3F1-4C2E-BC37-C3295FBB7529}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F44541B7-D3F1-4C2E-BC37-C3295FBB7529}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F44541B7-D3F1-4C2E-BC37-C3295FBB7529}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

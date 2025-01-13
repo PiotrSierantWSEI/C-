@@ -1,0 +1,15 @@
+C:\Users\Multiprojekt\Desktop\C-\CR-Definiowanie-klasy-dziedziczenie\bin\Debug\net8.0\CR-Definiowanie-klasy-dziedziczenie.exe
+C:\Users\Multiprojekt\Desktop\C-\CR-Definiowanie-klasy-dziedziczenie\bin\Debug\net8.0\CR-Definiowanie-klasy-dziedziczenie.deps.json
+C:\Users\Multiprojekt\Desktop\C-\CR-Definiowanie-klasy-dziedziczenie\bin\Debug\net8.0\CR-Definiowanie-klasy-dziedziczenie.runtimeconfig.json
+C:\Users\Multiprojekt\Desktop\C-\CR-Definiowanie-klasy-dziedziczenie\bin\Debug\net8.0\CR-Definiowanie-klasy-dziedziczenie.dll
+C:\Users\Multiprojekt\Desktop\C-\CR-Definiowanie-klasy-dziedziczenie\bin\Debug\net8.0\CR-Definiowanie-klasy-dziedziczenie.pdb
+C:\Users\Multiprojekt\Desktop\C-\CR-Definiowanie-klasy-dziedziczenie\obj\Debug\net8.0\CR-Definiowanie-klasy-dziedziczenie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Multiprojekt\Desktop\C-\CR-Definiowanie-klasy-dziedziczenie\obj\Debug\net8.0\CR-Definiowanie-klasy-dziedziczenie.AssemblyInfoInputs.cache
+C:\Users\Multiprojekt\Desktop\C-\CR-Definiowanie-klasy-dziedziczenie\obj\Debug\net8.0\CR-Definiowanie-klasy-dziedziczenie.AssemblyInfo.cs
+C:\Users\Multiprojekt\Desktop\C-\CR-Definiowanie-klasy-dziedziczenie\obj\Debug\net8.0\CR-Definiowanie-klasy-dziedziczenie.csproj.CoreCompileInputs.cache
+C:\Users\Multiprojekt\Desktop\C-\CR-Definiowanie-klasy-dziedziczenie\obj\Debug\net8.0\CR-Definiowanie-klasy-dziedziczenie.sourcelink.json
+C:\Users\Multiprojekt\Desktop\C-\CR-Definiowanie-klasy-dziedziczenie\obj\Debug\net8.0\CR-Definiowanie-klasy-dziedziczenie.dll
+C:\Users\Multiprojekt\Desktop\C-\CR-Definiowanie-klasy-dziedziczenie\obj\Debug\net8.0\refint\CR-Definiowanie-klasy-dziedziczenie.dll
+C:\Users\Multiprojekt\Desktop\C-\CR-Definiowanie-klasy-dziedziczenie\obj\Debug\net8.0\CR-Definiowanie-klasy-dziedziczenie.pdb
+C:\Users\Multiprojekt\Desktop\C-\CR-Definiowanie-klasy-dziedziczenie\obj\Debug\net8.0\CR-Definiowanie-klasy-dziedziczenie.genruntimeconfig.cache
+C:\Users\Multiprojekt\Desktop\C-\CR-Definiowanie-klasy-dziedziczenie\obj\Debug\net8.0\ref\CR-Definiowanie-klasy-dziedziczenie.dll
