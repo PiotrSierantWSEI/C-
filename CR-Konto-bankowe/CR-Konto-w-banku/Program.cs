@@ -4,82 +4,63 @@ using Bank;
 
 class Program
 {
-    static void Main(string[] args)
+    static void Main()
     {
-        Test5();
+        Test8();
+        Console.WriteLine("============");
+        Test9();
     }
-
-    static void Test1()
+    public static void Test8()
     {
-        /* Utworzenie konta dla dwóch poprawnie podanych argumentów
-        */
-        var account = new Account(" John   ", 100.23m);
-        Console.WriteLine(account.Balance == 100.23m);
-        Console.WriteLine(account.Name == "John");
-        Console.WriteLine(!account.IsBlocked);
+
+        // scenariusz: wpłaty wypłaty, blokada konta
+        // utworzenie konta plus z domyslnym limitem 100
+        var john = new AccountPlus("John", initialBalance: 100.0m);
+        Console.WriteLine(john);
+
+        // wypłata - podanie kwoty ujemnej
+        john.Withdrawal(-50.0m);
+        Console.WriteLine(john);
+
+        // wypłata bez wykorzystania debetu
+        john.Withdrawal(50.0m);
+        Console.WriteLine(john);
+
+        // wypłata z wykorzystaniem debetu
+        john.Withdrawal(100.0m);
+        Console.WriteLine(john);
+
+        // konto zablokowane, wypłata niemożliwa
+        john.Withdrawal(10.0m);
+        Console.WriteLine(john);
+
+        // wpłata odblokowująca konto
+        john.Deposit(80.0m);
+        Console.WriteLine(john);
+
+        // wpłata podanie kwoty ujemnej
+        john.Deposit(-80.0m);
+        Console.WriteLine(john);
+    }
+    public static void Test9()
+    {
+        // sytuacje specjalne
+        // konto z zerowym stanem
+        var account = new AccountPlus("John", initialBalance: 0, initialLimit: 0);
         Console.WriteLine(account);
-    }
-
-    static void Test2()
-    {
-        /* Utworzenie konta dla dwóch poprawnie podanych argumentów
-            zaokrąglenie kwoty w Balance */
-        var account = new Account(" John   ", 100.23156m);
-        Console.WriteLine(account.Balance == 100.2316m);
-        Console.WriteLine(account.Name == "John");
-        Console.WriteLine(!account.IsBlocked);
+        account.Withdrawal(10);
         Console.WriteLine(account);
-    }
 
-    static void Test3()
-    {
-        /* Utworzenie konta dla jednego poprawnie podanego argumentu
-        */
-        var account = new Account(" Adam ");
-        Console.WriteLine(account.Balance == 0.0m);
-        Console.WriteLine(account.Name == "Adam");
-        Console.WriteLine(!account.IsBlocked);
+        // zerowe saldo, limit 50
+        account.OneTimeDebetLimit = 50;
         Console.WriteLine(account);
-    }
-    static void Test4()
-    {
-        /* Utworzenie konta dla dwóch argumentów, nazwa jest null
-*/
-        try
-        {
-            var account = new Account(null, 100.0m);
-            Console.WriteLine(account);
-        }
-        catch (ArgumentOutOfRangeException)
-        {
-            Console.WriteLine("Name is null");
-        }
-    }
-
-    static void Test5()
-    {
-        /* wypłaty */
-        var account = new Account("John");
-        account.Deposit(100.00m);
-        Console.WriteLine(account.Withdrawal(10.00m)); // True
-        Console.WriteLine(account); // Account name: John, balance: 90.00
-        Console.WriteLine(account.Withdrawal(100.00m)); // False
-        Console.WriteLine(account);  // Account name: John, balance: 90.00
-        Console.WriteLine(account.Withdrawal(0.00m)); // False
-        // Console.WriteLine(account); // False
-        // Console.WriteLine(account.Withdrawal(-10.00m)); // Account name: John, balance: 90.00
-        // Console.WriteLine(account); // False
-        // account.Block(); // Account name: John, balance: 90.00
-        // Console.WriteLine(account.Withdrawal(10.4999m)); // False
-        // Console.WriteLine(account); // Account name: John, balance: 90.00, blocked
+        account.Withdrawal(0); // zerowa wypłata
+        Console.WriteLine(account);
+        account.Withdrawal(10); // wypłata w ramach debetu
+        Console.WriteLine(account);
+        account.Unblock(); // próba odblokowania konta
+        Console.WriteLine(account);
+        account.Deposit(10); // likwidacja debetu, zerowy bilans
+        Console.WriteLine(account);
     }
 }
-
-
-
-
-
-
-
-
-
