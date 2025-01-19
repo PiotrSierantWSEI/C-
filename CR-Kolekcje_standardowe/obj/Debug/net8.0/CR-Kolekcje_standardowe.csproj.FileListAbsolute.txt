@@ -1,0 +1,15 @@
+D:\Users\piotr.sierant\Desktop\C-\CR-Kolekcje_standardowe\bin\Debug\net8.0\CR-Kolekcje_standardowe.exe
+D:\Users\piotr.sierant\Desktop\C-\CR-Kolekcje_standardowe\bin\Debug\net8.0\CR-Kolekcje_standardowe.deps.json
+D:\Users\piotr.sierant\Desktop\C-\CR-Kolekcje_standardowe\bin\Debug\net8.0\CR-Kolekcje_standardowe.runtimeconfig.json
+D:\Users\piotr.sierant\Desktop\C-\CR-Kolekcje_standardowe\bin\Debug\net8.0\CR-Kolekcje_standardowe.dll
+D:\Users\piotr.sierant\Desktop\C-\CR-Kolekcje_standardowe\bin\Debug\net8.0\CR-Kolekcje_standardowe.pdb
+D:\Users\piotr.sierant\Desktop\C-\CR-Kolekcje_standardowe\obj\Debug\net8.0\CR-Kolekcje_standardowe.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\piotr.sierant\Desktop\C-\CR-Kolekcje_standardowe\obj\Debug\net8.0\CR-Kolekcje_standardowe.AssemblyInfoInputs.cache
+D:\Users\piotr.sierant\Desktop\C-\CR-Kolekcje_standardowe\obj\Debug\net8.0\CR-Kolekcje_standardowe.AssemblyInfo.cs
+D:\Users\piotr.sierant\Desktop\C-\CR-Kolekcje_standardowe\obj\Debug\net8.0\CR-Kolekcje_standardowe.csproj.CoreCompileInputs.cache
+D:\Users\piotr.sierant\Desktop\C-\CR-Kolekcje_standardowe\obj\Debug\net8.0\CR-Kolekcje_standardowe.sourcelink.json
+D:\Users\piotr.sierant\Desktop\C-\CR-Kolekcje_standardowe\obj\Debug\net8.0\CR-Kolekcje_standardowe.dll
+D:\Users\piotr.sierant\Desktop\C-\CR-Kolekcje_standardowe\obj\Debug\net8.0\refint\CR-Kolekcje_standardowe.dll
+D:\Users\piotr.sierant\Desktop\C-\CR-Kolekcje_standardowe\obj\Debug\net8.0\CR-Kolekcje_standardowe.pdb
+D:\Users\piotr.sierant\Desktop\C-\CR-Kolekcje_standardowe\obj\Debug\net8.0\CR-Kolekcje_standardowe.genruntimeconfig.cache
+D:\Users\piotr.sierant\Desktop\C-\CR-Kolekcje_standardowe\obj\Debug\net8.0\ref\CR-Kolekcje_standardowe.dll
