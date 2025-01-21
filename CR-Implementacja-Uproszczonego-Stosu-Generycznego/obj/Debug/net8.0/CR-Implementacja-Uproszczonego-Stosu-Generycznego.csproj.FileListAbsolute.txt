@@ -1,0 +1,15 @@
+C:\Users\Multiprojekt\Desktop\C-\CR-Implementacja-Uproszczonego-Stosu-Generycznego\bin\Debug\net8.0\CR-Implementacja-Uproszczonego-Stosu-Generycznego.exe
+C:\Users\Multiprojekt\Desktop\C-\CR-Implementacja-Uproszczonego-Stosu-Generycznego\bin\Debug\net8.0\CR-Implementacja-Uproszczonego-Stosu-Generycznego.deps.json
+C:\Users\Multiprojekt\Desktop\C-\CR-Implementacja-Uproszczonego-Stosu-Generycznego\bin\Debug\net8.0\CR-Implementacja-Uproszczonego-Stosu-Generycznego.runtimeconfig.json
+C:\Users\Multiprojekt\Desktop\C-\CR-Implementacja-Uproszczonego-Stosu-Generycznego\bin\Debug\net8.0\CR-Implementacja-Uproszczonego-Stosu-Generycznego.dll
+C:\Users\Multiprojekt\Desktop\C-\CR-Implementacja-Uproszczonego-Stosu-Generycznego\bin\Debug\net8.0\CR-Implementacja-Uproszczonego-Stosu-Generycznego.pdb
+C:\Users\Multiprojekt\Desktop\C-\CR-Implementacja-Uproszczonego-Stosu-Generycznego\obj\Debug\net8.0\CR-Implementacja-Uproszczonego-Stosu-Generycznego.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Multiprojekt\Desktop\C-\CR-Implementacja-Uproszczonego-Stosu-Generycznego\obj\Debug\net8.0\CR-Implementacja-Uproszczonego-Stosu-Generycznego.AssemblyInfoInputs.cache
+C:\Users\Multiprojekt\Desktop\C-\CR-Implementacja-Uproszczonego-Stosu-Generycznego\obj\Debug\net8.0\CR-Implementacja-Uproszczonego-Stosu-Generycznego.AssemblyInfo.cs
+C:\Users\Multiprojekt\Desktop\C-\CR-Implementacja-Uproszczonego-Stosu-Generycznego\obj\Debug\net8.0\CR-Implementacja-Uproszczonego-Stosu-Generycznego.csproj.CoreCompileInputs.cache
+C:\Users\Multiprojekt\Desktop\C-\CR-Implementacja-Uproszczonego-Stosu-Generycznego\obj\Debug\net8.0\CR-Implementacja-Uproszczonego-Stosu-Generycznego.sourcelink.json
+C:\Users\Multiprojekt\Desktop\C-\CR-Implementacja-Uproszczonego-Stosu-Generycznego\obj\Debug\net8.0\CR-Implementacja-Uproszczonego-Stosu-Generycznego.dll
+C:\Users\Multiprojekt\Desktop\C-\CR-Implementacja-Uproszczonego-Stosu-Generycznego\obj\Debug\net8.0\refint\CR-Implementacja-Uproszczonego-Stosu-Generycznego.dll
+C:\Users\Multiprojekt\Desktop\C-\CR-Implementacja-Uproszczonego-Stosu-Generycznego\obj\Debug\net8.0\CR-Implementacja-Uproszczonego-Stosu-Generycznego.pdb
+C:\Users\Multiprojekt\Desktop\C-\CR-Implementacja-Uproszczonego-Stosu-Generycznego\obj\Debug\net8.0\CR-Implementacja-Uproszczonego-Stosu-Generycznego.genruntimeconfig.cache
+C:\Users\Multiprojekt\Desktop\C-\CR-Implementacja-Uproszczonego-Stosu-Generycznego\obj\Debug\net8.0\ref\CR-Implementacja-Uproszczonego-Stosu-Generycznego.dll
