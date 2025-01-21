@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\piotr.sierant\\Desktop\\C-\\CR-Kolekcje_standardowe\\CR-Kolekcje_standardowe.csproj": {}
+    "C:\\Users\\Multiprojekt\\Desktop\\C-\\CR-Kolekcje_standardowe\\CR-Kolekcje_standardowe.csproj": {}
   },
   "projects": {
-    "D:\\Users\\piotr.sierant\\Desktop\\C-\\CR-Kolekcje_standardowe\\CR-Kolekcje_standardowe.csproj": {
+    "C:\\Users\\Multiprojekt\\Desktop\\C-\\CR-Kolekcje_standardowe\\CR-Kolekcje_standardowe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\piotr.sierant\\Desktop\\C-\\CR-Kolekcje_standardowe\\CR-Kolekcje_standardowe.csproj",
+        "projectUniqueName": "C:\\Users\\Multiprojekt\\Desktop\\C-\\CR-Kolekcje_standardowe\\CR-Kolekcje_standardowe.csproj",
         "projectName": "CR-Kolekcje_standardowe",
-        "projectPath": "D:\\Users\\piotr.sierant\\Desktop\\C-\\CR-Kolekcje_standardowe\\CR-Kolekcje_standardowe.csproj",
-        "packagesPath": "D:\\Users\\piotr.sierant\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\piotr.sierant\\Desktop\\C-\\CR-Kolekcje_standardowe\\obj\\",
+        "projectPath": "C:\\Users\\Multiprojekt\\Desktop\\C-\\CR-Kolekcje_standardowe\\CR-Kolekcje_standardowe.csproj",
+        "packagesPath": "C:\\Users\\Multiprojekt\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Multiprojekt\\Desktop\\C-\\CR-Kolekcje_standardowe\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "D:\\Users\\piotr.sierant\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Multiprojekt\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -60,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
