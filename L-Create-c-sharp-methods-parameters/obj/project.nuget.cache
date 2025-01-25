@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "u2zMyn+5FmU=",
+  "dgSpecHash": "ezx5UaNj15E=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Multiprojekt\\Desktop\\C-\\L-Create-c-sharp-methods-parameters\\Create-c-sharp-methods-parameters.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "c:\\Users\\dzd07\\Desktop\\C-\\L-Create-c-sharp-methods-parameters\\Create-c-sharp-methods-parameters.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dzd07\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.12\\microsoft.netcore.app.ref.8.0.12.nupkg.sha512",
+    "C:\\Users\\dzd07\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.12\\microsoft.windowsdesktop.app.ref.8.0.12.nupkg.sha512",
+    "C:\\Users\\dzd07\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.12\\microsoft.aspnetcore.app.ref.8.0.12.nupkg.sha512",
+    "C:\\Users\\dzd07\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.12\\microsoft.netcore.app.host.win-x64.8.0.12.nupkg.sha512"
+  ],
   "logs": []
 }

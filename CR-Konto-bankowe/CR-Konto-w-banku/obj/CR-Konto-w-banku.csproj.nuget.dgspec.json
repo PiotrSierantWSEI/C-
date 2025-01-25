@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Multiprojekt\\Desktop\\C-\\CR-Konto-bankowe\\CR-Konto-w-banku\\CR-Konto-w-banku.csproj": {}
+    "C:\\Users\\dzd07\\Desktop\\C-\\CR-Konto-bankowe\\CR-Konto-w-banku\\CR-Konto-w-banku.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Multiprojekt\\Desktop\\C-\\CR-Konto-bankowe\\Account\\Account.csproj": {
+    "C:\\Users\\dzd07\\Desktop\\C-\\CR-Konto-bankowe\\Account\\Account.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Multiprojekt\\Desktop\\C-\\CR-Konto-bankowe\\Account\\Account.csproj",
+        "projectUniqueName": "C:\\Users\\dzd07\\Desktop\\C-\\CR-Konto-bankowe\\Account\\Account.csproj",
         "projectName": "Account",
-        "projectPath": "C:\\Users\\Multiprojekt\\Desktop\\C-\\CR-Konto-bankowe\\Account\\Account.csproj",
-        "packagesPath": "C:\\Users\\Multiprojekt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Multiprojekt\\Desktop\\C-\\CR-Konto-bankowe\\Account\\obj\\",
+        "projectPath": "C:\\Users\\dzd07\\Desktop\\C-\\CR-Konto-bankowe\\Account\\Account.csproj",
+        "packagesPath": "C:\\Users\\dzd07\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dzd07\\Desktop\\C-\\CR-Konto-bankowe\\Account\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Multiprojekt\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\dzd07\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -37,7 +37,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -53,26 +54,40 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.12, 8.0.12]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.12, 8.0.12]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.12, 8.0.12]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Multiprojekt\\Desktop\\C-\\CR-Konto-bankowe\\CR-Konto-w-banku\\CR-Konto-w-banku.csproj": {
+    "C:\\Users\\dzd07\\Desktop\\C-\\CR-Konto-bankowe\\CR-Konto-w-banku\\CR-Konto-w-banku.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Multiprojekt\\Desktop\\C-\\CR-Konto-bankowe\\CR-Konto-w-banku\\CR-Konto-w-banku.csproj",
+        "projectUniqueName": "C:\\Users\\dzd07\\Desktop\\C-\\CR-Konto-bankowe\\CR-Konto-w-banku\\CR-Konto-w-banku.csproj",
         "projectName": "CR-Konto-w-banku",
-        "projectPath": "C:\\Users\\Multiprojekt\\Desktop\\C-\\CR-Konto-bankowe\\CR-Konto-w-banku\\CR-Konto-w-banku.csproj",
-        "packagesPath": "C:\\Users\\Multiprojekt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Multiprojekt\\Desktop\\C-\\CR-Konto-bankowe\\CR-Konto-w-banku\\obj\\",
+        "projectPath": "C:\\Users\\dzd07\\Desktop\\C-\\CR-Konto-bankowe\\CR-Konto-w-banku\\CR-Konto-w-banku.csproj",
+        "packagesPath": "C:\\Users\\dzd07\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dzd07\\Desktop\\C-\\CR-Konto-bankowe\\CR-Konto-w-banku\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Multiprojekt\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\dzd07\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -84,8 +99,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Multiprojekt\\Desktop\\C-\\CR-Konto-bankowe\\Account\\Account.csproj": {
-                "projectPath": "C:\\Users\\Multiprojekt\\Desktop\\C-\\CR-Konto-bankowe\\Account\\Account.csproj"
+              "C:\\Users\\dzd07\\Desktop\\C-\\CR-Konto-bankowe\\Account\\Account.csproj": {
+                "projectPath": "C:\\Users\\dzd07\\Desktop\\C-\\CR-Konto-bankowe\\Account\\Account.csproj"
               }
             }
           }
@@ -99,7 +114,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -115,12 +131,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.12, 8.0.12]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[8.0.12, 8.0.12]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.12, 8.0.12]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.12, 8.0.12]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

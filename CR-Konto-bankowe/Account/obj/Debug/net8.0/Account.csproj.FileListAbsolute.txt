@@ -10,3 +10,15 @@ C:\Users\Multiprojekt\Desktop\C-\CR-Konto-bankowe\Account\obj\Debug\net8.0\Accou
 C:\Users\Multiprojekt\Desktop\C-\CR-Konto-bankowe\Account\obj\Debug\net8.0\refint\Account.dll
 C:\Users\Multiprojekt\Desktop\C-\CR-Konto-bankowe\Account\obj\Debug\net8.0\Account.pdb
 C:\Users\Multiprojekt\Desktop\C-\CR-Konto-bankowe\Account\obj\Debug\net8.0\ref\Account.dll
+C:\Users\dzd07\Desktop\C-\CR-Konto-bankowe\Account\bin\Debug\net8.0\Account.deps.json
+C:\Users\dzd07\Desktop\C-\CR-Konto-bankowe\Account\bin\Debug\net8.0\Account.dll
+C:\Users\dzd07\Desktop\C-\CR-Konto-bankowe\Account\bin\Debug\net8.0\Account.pdb
+C:\Users\dzd07\Desktop\C-\CR-Konto-bankowe\Account\obj\Debug\net8.0\Account.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dzd07\Desktop\C-\CR-Konto-bankowe\Account\obj\Debug\net8.0\Account.AssemblyInfoInputs.cache
+C:\Users\dzd07\Desktop\C-\CR-Konto-bankowe\Account\obj\Debug\net8.0\Account.AssemblyInfo.cs
+C:\Users\dzd07\Desktop\C-\CR-Konto-bankowe\Account\obj\Debug\net8.0\Account.csproj.CoreCompileInputs.cache
+C:\Users\dzd07\Desktop\C-\CR-Konto-bankowe\Account\obj\Debug\net8.0\Account.sourcelink.json
+C:\Users\dzd07\Desktop\C-\CR-Konto-bankowe\Account\obj\Debug\net8.0\Account.dll
+C:\Users\dzd07\Desktop\C-\CR-Konto-bankowe\Account\obj\Debug\net8.0\refint\Account.dll
+C:\Users\dzd07\Desktop\C-\CR-Konto-bankowe\Account\obj\Debug\net8.0\Account.pdb
+C:\Users\dzd07\Desktop\C-\CR-Konto-bankowe\Account\obj\Debug\net8.0\ref\Account.dll
