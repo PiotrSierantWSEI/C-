@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CR-Analiza-logów-kolekcje-standardowe/1.0.0": {
+        "runtime": {
+          "CR-Analiza-logów-kolekcje-standardowe.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CR-Analiza-logów-kolekcje-standardowe/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

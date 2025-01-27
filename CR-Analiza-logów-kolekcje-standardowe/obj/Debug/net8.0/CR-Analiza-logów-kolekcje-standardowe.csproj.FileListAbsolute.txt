@@ -1,0 +1,15 @@
+C:\Users\Multiprojekt\Desktop\C-\CR-Analiza-logów-kolekcje-standardowe\bin\Debug\net8.0\CR-Analiza-logów-kolekcje-standardowe.exe
+C:\Users\Multiprojekt\Desktop\C-\CR-Analiza-logów-kolekcje-standardowe\bin\Debug\net8.0\CR-Analiza-logów-kolekcje-standardowe.deps.json
+C:\Users\Multiprojekt\Desktop\C-\CR-Analiza-logów-kolekcje-standardowe\bin\Debug\net8.0\CR-Analiza-logów-kolekcje-standardowe.runtimeconfig.json
+C:\Users\Multiprojekt\Desktop\C-\CR-Analiza-logów-kolekcje-standardowe\bin\Debug\net8.0\CR-Analiza-logów-kolekcje-standardowe.dll
+C:\Users\Multiprojekt\Desktop\C-\CR-Analiza-logów-kolekcje-standardowe\bin\Debug\net8.0\CR-Analiza-logów-kolekcje-standardowe.pdb
+C:\Users\Multiprojekt\Desktop\C-\CR-Analiza-logów-kolekcje-standardowe\obj\Debug\net8.0\CR-Analiza-logów-kolekcje-standardowe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Multiprojekt\Desktop\C-\CR-Analiza-logów-kolekcje-standardowe\obj\Debug\net8.0\CR-Analiza-logów-kolekcje-standardowe.AssemblyInfoInputs.cache
+C:\Users\Multiprojekt\Desktop\C-\CR-Analiza-logów-kolekcje-standardowe\obj\Debug\net8.0\CR-Analiza-logów-kolekcje-standardowe.AssemblyInfo.cs
+C:\Users\Multiprojekt\Desktop\C-\CR-Analiza-logów-kolekcje-standardowe\obj\Debug\net8.0\CR-Analiza-logów-kolekcje-standardowe.csproj.CoreCompileInputs.cache
+C:\Users\Multiprojekt\Desktop\C-\CR-Analiza-logów-kolekcje-standardowe\obj\Debug\net8.0\CR-Analiza-logów-kolekcje-standardowe.sourcelink.json
+C:\Users\Multiprojekt\Desktop\C-\CR-Analiza-logów-kolekcje-standardowe\obj\Debug\net8.0\CR-Analiza-logów-kolekcje-standardowe.dll
+C:\Users\Multiprojekt\Desktop\C-\CR-Analiza-logów-kolekcje-standardowe\obj\Debug\net8.0\refint\CR-Analiza-logów-kolekcje-standardowe.dll
+C:\Users\Multiprojekt\Desktop\C-\CR-Analiza-logów-kolekcje-standardowe\obj\Debug\net8.0\CR-Analiza-logów-kolekcje-standardowe.pdb
+C:\Users\Multiprojekt\Desktop\C-\CR-Analiza-logów-kolekcje-standardowe\obj\Debug\net8.0\CR-Analiza-logów-kolekcje-standardowe.genruntimeconfig.cache
+C:\Users\Multiprojekt\Desktop\C-\CR-Analiza-logów-kolekcje-standardowe\obj\Debug\net8.0\ref\CR-Analiza-logów-kolekcje-standardowe.dll
