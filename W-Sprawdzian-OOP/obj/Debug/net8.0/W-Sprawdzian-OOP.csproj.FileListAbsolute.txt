@@ -1,0 +1,15 @@
+C:\Users\Multiprojekt\Desktop\C-\W-Sprawdzian-OOP\bin\Debug\net8.0\W-Sprawdzian-OOP.exe
+C:\Users\Multiprojekt\Desktop\C-\W-Sprawdzian-OOP\bin\Debug\net8.0\W-Sprawdzian-OOP.deps.json
+C:\Users\Multiprojekt\Desktop\C-\W-Sprawdzian-OOP\bin\Debug\net8.0\W-Sprawdzian-OOP.runtimeconfig.json
+C:\Users\Multiprojekt\Desktop\C-\W-Sprawdzian-OOP\bin\Debug\net8.0\W-Sprawdzian-OOP.dll
+C:\Users\Multiprojekt\Desktop\C-\W-Sprawdzian-OOP\bin\Debug\net8.0\W-Sprawdzian-OOP.pdb
+C:\Users\Multiprojekt\Desktop\C-\W-Sprawdzian-OOP\obj\Debug\net8.0\W-Sprawdzian-OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Multiprojekt\Desktop\C-\W-Sprawdzian-OOP\obj\Debug\net8.0\W-Sprawdzian-OOP.AssemblyInfoInputs.cache
+C:\Users\Multiprojekt\Desktop\C-\W-Sprawdzian-OOP\obj\Debug\net8.0\W-Sprawdzian-OOP.AssemblyInfo.cs
+C:\Users\Multiprojekt\Desktop\C-\W-Sprawdzian-OOP\obj\Debug\net8.0\W-Sprawdzian-OOP.csproj.CoreCompileInputs.cache
+C:\Users\Multiprojekt\Desktop\C-\W-Sprawdzian-OOP\obj\Debug\net8.0\W-Sprawdzian-OOP.sourcelink.json
+C:\Users\Multiprojekt\Desktop\C-\W-Sprawdzian-OOP\obj\Debug\net8.0\W-Sprawdzian-OOP.dll
+C:\Users\Multiprojekt\Desktop\C-\W-Sprawdzian-OOP\obj\Debug\net8.0\refint\W-Sprawdzian-OOP.dll
+C:\Users\Multiprojekt\Desktop\C-\W-Sprawdzian-OOP\obj\Debug\net8.0\W-Sprawdzian-OOP.pdb
+C:\Users\Multiprojekt\Desktop\C-\W-Sprawdzian-OOP\obj\Debug\net8.0\W-Sprawdzian-OOP.genruntimeconfig.cache
+C:\Users\Multiprojekt\Desktop\C-\W-Sprawdzian-OOP\obj\Debug\net8.0\ref\W-Sprawdzian-OOP.dll

@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CR-Analiza-logów-kolekcje-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CR-HS12MBR-MinimumBoundingRectangle", "CR-HS12MBR-MinimumBoundingRectangle\CR-HS12MBR-MinimumBoundingRectangle.csproj", "{4CD6E1C4-F5ED-45B9-A684-5040ABFF99D1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W-Sprawdzian-OOP", "W-Sprawdzian-OOP\W-Sprawdzian-OOP.csproj", "{A542AC78-8B6A-4839-8DDA-963C7DD87EC4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{4CD6E1C4-F5ED-45B9-A684-5040ABFF99D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4CD6E1C4-F5ED-45B9-A684-5040ABFF99D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4CD6E1C4-F5ED-45B9-A684-5040ABFF99D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A542AC78-8B6A-4839-8DDA-963C7DD87EC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A542AC78-8B6A-4839-8DDA-963C7DD87EC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A542AC78-8B6A-4839-8DDA-963C7DD87EC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A542AC78-8B6A-4839-8DDA-963C7DD87EC4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
