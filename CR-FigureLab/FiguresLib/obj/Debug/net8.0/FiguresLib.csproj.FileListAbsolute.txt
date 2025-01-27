@@ -1,0 +1,12 @@
+C:\Users\Multiprojekt\Desktop\C-\FigureLab\FiguresLib\bin\Debug\net8.0\FiguresLib.deps.json
+C:\Users\Multiprojekt\Desktop\C-\FigureLab\FiguresLib\bin\Debug\net8.0\FiguresLib.dll
+C:\Users\Multiprojekt\Desktop\C-\FigureLab\FiguresLib\bin\Debug\net8.0\FiguresLib.pdb
+C:\Users\Multiprojekt\Desktop\C-\FigureLab\FiguresLib\obj\Debug\net8.0\FiguresLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Multiprojekt\Desktop\C-\FigureLab\FiguresLib\obj\Debug\net8.0\FiguresLib.AssemblyInfoInputs.cache
+C:\Users\Multiprojekt\Desktop\C-\FigureLab\FiguresLib\obj\Debug\net8.0\FiguresLib.AssemblyInfo.cs
+C:\Users\Multiprojekt\Desktop\C-\FigureLab\FiguresLib\obj\Debug\net8.0\FiguresLib.csproj.CoreCompileInputs.cache
+C:\Users\Multiprojekt\Desktop\C-\FigureLab\FiguresLib\obj\Debug\net8.0\FiguresLib.sourcelink.json
+C:\Users\Multiprojekt\Desktop\C-\FigureLab\FiguresLib\obj\Debug\net8.0\FiguresLib.dll
+C:\Users\Multiprojekt\Desktop\C-\FigureLab\FiguresLib\obj\Debug\net8.0\refint\FiguresLib.dll
+C:\Users\Multiprojekt\Desktop\C-\FigureLab\FiguresLib\obj\Debug\net8.0\FiguresLib.pdb
+C:\Users\Multiprojekt\Desktop\C-\FigureLab\FiguresLib\obj\Debug\net8.0\ref\FiguresLib.dll
