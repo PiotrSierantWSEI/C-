@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "D9SOO+wL2Cs=",
+  "dgSpecHash": "ktQGGRSeAeY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Multiprojekt\\Desktop\\C-\\CR-Konto-bankowe\\Account\\Account.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\dzd07\\Desktop\\C-\\CR-Konto-bankowe\\Account\\Account.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dzd07\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.12\\microsoft.netcore.app.ref.8.0.12.nupkg.sha512",
+    "C:\\Users\\dzd07\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.12\\microsoft.windowsdesktop.app.ref.8.0.12.nupkg.sha512",
+    "C:\\Users\\dzd07\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.12\\microsoft.aspnetcore.app.ref.8.0.12.nupkg.sha512"
+  ],
   "logs": []
 }

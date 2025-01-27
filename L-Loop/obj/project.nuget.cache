@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "206C6+AF0xo=",
+  "dgSpecHash": "m9FGN47i5GI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Multiprojekt\\Desktop\\C-\\L-Loop\\Loop.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "c:\\Users\\dzd07\\Desktop\\C-\\L-Loop\\Loop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dzd07\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.12\\microsoft.netcore.app.ref.8.0.12.nupkg.sha512",
+    "C:\\Users\\dzd07\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.12\\microsoft.windowsdesktop.app.ref.8.0.12.nupkg.sha512",
+    "C:\\Users\\dzd07\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.12\\microsoft.aspnetcore.app.ref.8.0.12.nupkg.sha512",
+    "C:\\Users\\dzd07\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.12\\microsoft.netcore.app.host.win-x64.8.0.12.nupkg.sha512"
+  ],
   "logs": []
 }
